@@ -13,7 +13,7 @@ Currently you can use the launcher of your choice to load up:<br>
  <li>FTB Revelations - rev.baconetworks.com</li>
 </ul><br>
 
-Visit us at <a href="https://www.baconetworks.com/>Bacon Parties start HERE</a></p>
+Visit us at <a href="https://www.baconetworks.com/">Bacon Parties start HERE</a></p>
 
 ![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
 ![Screenshot 2](https://i.imgur.com/x3B34n1.png)
