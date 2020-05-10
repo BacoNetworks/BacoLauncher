@@ -1,12 +1,19 @@
-<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="aventium softworks"></p>
+<p align="center"><img src="./app/assets/images/ThDmbJD.png" width="885px" height="339px" alt="BacoNetworks"></p>
 
-<h1 align="center">Helios Launcher</h1>
+<h1 align="center">Bacon Networks Launcher</h1>
 
-<em><h5 align="center">(formerly Electron Launcher)</h5></em>
+<em><h5 align="center">(formerly Electron Launcher)(formerly Helios Launcher)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/travis/dscalzi/HeliosLauncher.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/dscalzi/HeliosLauncher) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="stark"></p>
+<p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.<br>
+Currently you can use the launcher of your choice to load up:<br>
+<ul>
+ <li>BacoNetworks Hub - play.baconetworks.com</li>
+ <li>Sky Factory 4 - sf4.baconetworks.com</li>
+ <li>FTB Stone Block 2 - sb2.baconetworks.com</li>
+ <li>FTB Revelations - rev.baconetworks.com</li>
+</ul><br>
 
-<p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
+Visit us at <a href="https://www.baconetworks.com/>Bacon Parties start HERE</a></p>
 
 ![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
 ![Screenshot 2](https://i.imgur.com/x3B34n1.png)
