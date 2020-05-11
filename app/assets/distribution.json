@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://baconetworks.com/rss",
+  "rss": "http://baconetworks.com/rss",
   "servers": [
     {
       "id": "StoneBlock2-1.12.2",
@@ -25,7 +25,7 @@
           "artifact": {
             "size": 4897687,
             "MD5": "af0b5a16eb80519f918cbf872b6063bb",
-            "url": "https://baconetworks.com/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2846/forge-1.12.2-14.23.5.2846-universal.jar"
+            "url": "http://192.168.1.117/baco/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2846/forge-1.12.2-14.23.5.2846-universal.jar"
           },
           "subModules": [
             {
@@ -35,7 +35,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://baconetworks.com/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "http://192.168.1.117/baco/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -45,7 +45,7 @@
               "artifact": {
                 "size": 247787,
                 "MD5": "f5ad16c7f0338b541978b0430d51dc83",
-                "url": "https://baconetworks.com/repo/lib/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar"
+                "url": "http://192.168.1.117/baco/repo/lib/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar"
               }
             },
             {
@@ -55,7 +55,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "https://baconetworks.com/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "http://192.168.1.117/baco/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -65,7 +65,7 @@
               "artifact": {
                 "size": 1091208,
                 "MD5": "34d3537524a6c8c134e840e7be601569",
-                "url": "https://baconetworks.com/repo/lib/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar"
+                "url": "http://192.168.1.117/baco/repo/lib/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar"
               }
             },
             {
@@ -75,7 +75,7 @@
               "artifact": {
                 "size": 746612,
                 "MD5": "02d67395b518f2f26c2e97fdf094ef1a",
-                "url": "https://baconetworks.com/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar.pack.xz"
+                "url": "http://192.168.1.117/baco/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar.pack.xz"
               }
             },
             {
@@ -85,7 +85,7 @@
               "artifact": {
                 "size": 56636,
                 "MD5": "b10c0bbece6e3038bf3197a6d7d4a810",
-                "url": "https://baconetworks.com/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar.pack.xz"
+                "url": "http://192.168.1.117/baco/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar.pack.xz"
               }
             },
             {
@@ -95,7 +95,7 @@
               "artifact": {
                 "size": 21324,
                 "MD5": "cda3653f76f85bdb5ce4b758c7e58083",
-                "url": "https://baconetworks.com/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
+                "url": "http://192.168.1.117/baco/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
               }
             },
             {
@@ -105,7 +105,7 @@
               "artifact": {
                 "size": 3076920,
                 "MD5": "a28be4fdc8fbf7f401a412c5cff0aa6a",
-                "url": "https://baconetworks.com/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar.pack.xz"
+                "url": "http://192.168.1.117/baco/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar.pack.xz"
               }
             },
             {
@@ -115,7 +115,7 @@
               "artifact": {
                 "size": 7956,
                 "MD5": "793d63c2ee5eddc8aa81c7f26e611bd4",
-                "url": "https://baconetworks.com/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
+                "url": "http://192.168.1.117/baco/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
               }
             },
             {
@@ -125,7 +125,7 @@
               "artifact": {
                 "size": 46140,
                 "MD5": "9799e223eb914d311ae0ce0d8ef7ea4a",
-                "url": "https://baconetworks.com/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
+                "url": "http://192.168.1.117/baco/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
               }
             },
             {
@@ -135,7 +135,7 @@
               "artifact": {
                 "size": 1474672,
                 "MD5": "e86e59073e7e1ff9600418a2c01617fe",
-                "url": "https://baconetworks.com/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar.pack.xz"
+                "url": "http://192.168.1.117/baco/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar.pack.xz"
               }
             },
             {
@@ -145,7 +145,7 @@
               "artifact": {
                 "size": 85568,
                 "MD5": "425795d70d8271e820014f4858a1deb2",
-                "url": "https://baconetworks.com/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
+                "url": "http://192.168.1.117/baco/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
               }
             },
             {
@@ -155,7 +155,7 @@
               "artifact": {
                 "size": 1070312,
                 "MD5": "a74ce568c6192682ced726323ad7b42f",
-                "url": "https://baconetworks.com/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar.pack.xz"
+                "url": "http://192.168.1.117/baco/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar.pack.xz"
               }
             },
             {
@@ -165,7 +165,7 @@
               "artifact": {
                 "size": 205676,
                 "MD5": "6cf5c22f74a122208149caf7021c0c56",
-                "url": "https://baconetworks.com/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar.pack.xz"
+                "url": "http://192.168.1.117/baco/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar.pack.xz"
               }
             },
             {
@@ -175,7 +175,7 @@
               "artifact": {
                 "size": 217812,
                 "MD5": "1febfc141d25da5c496eaf95dfa9af5c",
-                "url": "https://baconetworks.com/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar.pack.xz"
+                "url": "http://192.168.1.117/baco/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar.pack.xz"
               }
             },
             {
@@ -185,7 +185,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://baconetworks.com/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "http://192.168.1.117/baco/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -195,7 +195,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "https://baconetworks.com/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "http://192.168.1.117/baco/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             },
             {
@@ -205,7 +205,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "https://baconetworks.com/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "http://192.168.1.117/baco/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -215,7 +215,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "https://baconetworks.com/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "http://192.168.1.117/baco/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -225,7 +225,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "https://baconetworks.com/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "http://192.168.1.117/baco/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             }
           ]
@@ -241,7 +241,7 @@
           "artifact": {
             "size": 241857,
             "MD5": "0e8cf7b171fee14b054cb4441650b539",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/AE2WTLib-1.12.2-1.0.30.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/AE2WTLib-1.12.2-1.0.30.jar"
           }
         },
         {
@@ -255,7 +255,7 @@
           "artifact": {
             "size": 2938976,
             "MD5": "5b619cf05cc827426f80df4b716092f5",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ActuallyAdditions-1.12.2-r150.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ActuallyAdditions-1.12.2-r150.jar"
           }
         },
         {
@@ -269,7 +269,7 @@
           "artifact": {
             "size": 11604,
             "MD5": "71b8dfb3383bf90c615ff4be27f425b7",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ActuallyBaubles-1.12-1.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ActuallyBaubles-1.12-1.1.jar"
           }
         },
         {
@@ -283,7 +283,7 @@
           "artifact": {
             "size": 44663,
             "MD5": "b753c7ce93ad8768e3ba3a9f35d16bee",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/AkashicTome-1.2-12.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/AkashicTome-1.2-12.jar"
           }
         },
         {
@@ -297,7 +297,7 @@
           "artifact": {
             "size": 32317,
             "MD5": "0e0af1e6f80ea2ee7ecfc2f8f44b897b",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/AppleSkin-mc1.12-1.0.9.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/AppleSkin-mc1.12-1.0.9.jar"
           }
         },
         {
@@ -311,7 +311,7 @@
           "artifact": {
             "size": 6796,
             "MD5": "d1d921d9bb092ee3b5fd193abe95db32",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/AttributeFix-1.12.2-1.0.4.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/AttributeFix-1.12.2-1.0.4.jar"
           }
         },
         {
@@ -325,7 +325,7 @@
           "artifact": {
             "size": 108306,
             "MD5": "4e5a4b881c27b1e4502a9a16c00882ad",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/AutoRegLib-1.3-32.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/AutoRegLib-1.3-32.jar"
           }
         },
         {
@@ -339,7 +339,7 @@
           "artifact": {
             "size": 972581,
             "MD5": "8eedd678495a7ce0958c026a7873fc62",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Avaritia-1.12.2-3.3.0.33-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Avaritia-1.12.2-3.3.0.33-universal.jar"
           }
         },
         {
@@ -353,7 +353,7 @@
           "artifact": {
             "size": 108450,
             "MD5": "944dec4ef3fbfd4d498d94a7047af201",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Baubles-1.12-1.5.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Baubles-1.12-1.5.2.jar"
           }
         },
         {
@@ -367,7 +367,7 @@
           "artifact": {
             "size": 77866,
             "MD5": "fb4283f63a9129ef4611cc92e36de18d",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar"
           }
         },
         {
@@ -381,7 +381,7 @@
           "artifact": {
             "size": 155196,
             "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/BetterFps-1.4.8.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/BetterFps-1.4.8.jar"
           }
         },
         {
@@ -395,7 +395,7 @@
           "artifact": {
             "size": 266512,
             "MD5": "004f0b325be5a9e7ad4836c4b9d1d92c",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Bookshelf-1.12.2-2.3.585.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Bookshelf-1.12.2-2.3.585.jar"
           }
         },
         {
@@ -409,7 +409,7 @@
           "artifact": {
             "size": 13811689,
             "MD5": "9d6512335fe747ad489203026969abbe",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Botania%20r1.10-362.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Botania%20r1.10-362.jar"
           }
         },
         {
@@ -423,7 +423,7 @@
           "artifact": {
             "size": 825212,
             "MD5": "b3cc0541f4a3758b299e2200d8d00cd3",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/BrandonsCore-1.12.2-2.4.17.208-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/BrandonsCore-1.12.2-2.4.17.208-universal.jar"
           }
         },
         {
@@ -437,7 +437,7 @@
           "artifact": {
             "size": 705115,
             "MD5": "70a648d7243b9b6d5bf07b85434aace5",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/BuildingGadgets-2.7.3.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/BuildingGadgets-2.7.3.jar"
           }
         },
         {
@@ -451,7 +451,7 @@
           "artifact": {
             "size": 194281,
             "MD5": "086cd9da4b8c50a9e483c7b580a9c4d8",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/CTM-MC1.12.2-0.3.3.22.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/CTM-MC1.12.2-0.3.3.22.jar"
           }
         },
         {
@@ -465,7 +465,7 @@
           "artifact": {
             "size": 400538,
             "MD5": "5992287165b230487f46d8321bb957dd",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Ceramics-1.12-1.3.7.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Ceramics-1.12-1.3.7.jar"
           }
         },
         {
@@ -479,7 +479,7 @@
           "artifact": {
             "size": 96859,
             "MD5": "e42efa8f4fd42d2918128a826b740e98",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Chameleon-1.12-4.1.3.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Chameleon-1.12-4.1.3.jar"
           }
         },
         {
@@ -493,7 +493,7 @@
           "artifact": {
             "size": 1023009,
             "MD5": "fad4238d5b85cdd2bd5a76abfca28d00",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ChanceCubes-1.12.2-4.1.0.300.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ChanceCubes-1.12.2-4.1.0.300.jar"
           }
         },
         {
@@ -507,7 +507,7 @@
           "artifact": {
             "size": 314060,
             "MD5": "6f5aadb16a4357aad4b8bc662b76de77",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ChestTransporter-1.12.2-2.8.8.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ChestTransporter-1.12.2-2.8.8.jar"
           }
         },
         {
@@ -521,7 +521,7 @@
           "artifact": {
             "size": 4310011,
             "MD5": "dbda5475859bcffc9f572c5a1506a1f4",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Chisel-MC1.12.2-0.2.1.35.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Chisel-MC1.12.2-0.2.1.35.jar"
           }
         },
         {
@@ -535,7 +535,7 @@
           "artifact": {
             "size": 84271,
             "MD5": "1757de28e78cd7714d0d0f2393118c65",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Clipboard-1.12-1.3.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Clipboard-1.12-1.3.0.jar"
           }
         },
         {
@@ -549,7 +549,7 @@
           "artifact": {
             "size": 13792,
             "MD5": "e0c4c4f04aeb0e0a48fc7534f9e7d6be",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Clumps-3.1.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Clumps-3.1.2.jar"
           }
         },
         {
@@ -563,7 +563,7 @@
           "artifact": {
             "size": 847938,
             "MD5": "90efac9c0abffa63c6da1453ceca1d68",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/CoFHCore-1.12.2-4.6.3.27-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/CoFHCore-1.12.2-4.6.3.27-universal.jar"
           }
         },
         {
@@ -577,7 +577,7 @@
           "artifact": {
             "size": 532040,
             "MD5": "c196ade3fe4f33b4d38b4de43326ae2d",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/CoFHWorld-1.12.2-1.3.1.7-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/CoFHWorld-1.12.2-1.3.1.7-universal.jar"
           }
         },
         {
@@ -591,7 +591,7 @@
           "artifact": {
             "size": 704330,
             "MD5": "3b5e44db5ac96fb23a439590b6731a31",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
           }
         },
         {
@@ -605,7 +605,7 @@
           "artifact": {
             "size": 361406,
             "MD5": "b45a973a0fe7e442cedba19230424438",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/CommonCapabilities-1.12.2-2.4.4.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/CommonCapabilities-1.12.2-2.4.4.jar"
           }
         },
         {
@@ -619,7 +619,7 @@
           "artifact": {
             "size": 274895,
             "MD5": "a36b092d9ed0900b7143f4a14a12fba8",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ContentTweaker-1.12.2-4.9.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ContentTweaker-1.12.2-4.9.1.jar"
           }
         },
         {
@@ -633,7 +633,7 @@
           "artifact": {
             "size": 27162,
             "MD5": "f640a63ddae6419a706e4beaec4a9f31",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Controlling-3.0.7.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Controlling-3.0.7.jar"
           }
         },
         {
@@ -647,7 +647,7 @@
           "artifact": {
             "size": 591592,
             "MD5": "995ffd1af0f16bdae20ab62b46fcd492",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/CookingForBlockheads_1.12.2-6.4.71.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/CookingForBlockheads_1.12.2-6.4.71.jar"
           }
         },
         {
@@ -661,7 +661,7 @@
           "artifact": {
             "size": 231809,
             "MD5": "140567d7df1de8b9a903140e799582c8",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/CraftPresence-1.12.2-1.5.5.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/CraftPresence-1.12.2-1.5.5.jar"
           }
         },
         {
@@ -675,7 +675,7 @@
           "artifact": {
             "size": 1368377,
             "MD5": "513ae1c980c23ef7be081ad151618320",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/CraftTweaker2-1.12-4.1.19.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/CraftTweaker2-1.12-4.1.19.jar"
           }
         },
         {
@@ -689,7 +689,7 @@
           "artifact": {
             "size": 97854,
             "MD5": "ffd1e2b5c4f244f4a7c6d4ee2e4c2090",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/CraftingTweaks_1.12.2-8.1.9.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/CraftingTweaks_1.12.2-8.1.9.jar"
           }
         },
         {
@@ -703,7 +703,7 @@
           "artifact": {
             "size": 126699,
             "MD5": "0018d8de31b05dc44c80a25d73fde15b",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Cucumber-1.12.2-1.1.3.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Cucumber-1.12.2-1.1.3.jar"
           }
         },
         {
@@ -717,7 +717,7 @@
           "artifact": {
             "size": 177791,
             "MD5": "0d34d658c07ebe9dd36aba17e59f8d3d",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/CustomMainMenu-MC1.12.2-2.0.9.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/CustomMainMenu-MC1.12.2-2.0.9.jar"
           }
         },
         {
@@ -731,7 +731,7 @@
           "artifact": {
             "size": 4009979,
             "MD5": "ff84a74de48644786f4d40d61f20e079",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Cyclic-1.12.2-1.19.16.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Cyclic-1.12.2-1.19.16.jar"
           }
         },
         {
@@ -745,7 +745,7 @@
           "artifact": {
             "size": 1056580,
             "MD5": "9d9ea7b3bf7c54fc942fbf4e03715238",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/CyclopsCore-1.12.2-1.5.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/CyclopsCore-1.12.2-1.5.0.jar"
           }
         },
         {
@@ -759,7 +759,7 @@
           "artifact": {
             "size": 342106,
             "MD5": "8cc749866a1ecc40c24c4435b0f42a19",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/DankNull-1.12.2-1.6.80.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/DankNull-1.12.2-1.6.80.jar"
           }
         },
         {
@@ -773,7 +773,7 @@
           "artifact": {
             "size": 419723,
             "MD5": "8a0016dad9624727d72bd757b384a455",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/DarkUtils-1.12.2-1.8.226.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/DarkUtils-1.12.2-1.8.226.jar"
           }
         },
         {
@@ -787,7 +787,7 @@
           "artifact": {
             "size": 15056,
             "MD5": "5510673c0fad1e3b6617b3d97d54b3d5",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/DefaultOptions_1.12.2-9.2.8.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/DefaultOptions_1.12.2-9.2.8.jar"
           }
         },
         {
@@ -801,7 +801,7 @@
           "artifact": {
             "size": 5699511,
             "MD5": "630e07626b95d7d9cd67209cb19d7507",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Draconic-Evolution-1.12.2-2.3.24.349-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Draconic-Evolution-1.12.2-2.3.24.349-universal.jar"
           }
         },
         {
@@ -815,7 +815,7 @@
           "artifact": {
             "size": 642591,
             "MD5": "cbbf7aee8d308bd168f481b2248f2431",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/EnderCore-1.12.2-0.5.69.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/EnderCore-1.12.2-0.5.69.jar"
           }
         },
         {
@@ -829,7 +829,7 @@
           "artifact": {
             "size": 7990974,
             "MD5": "46ea7d70bdbe473f369b1ac0c43ed3a0",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/EnderIO-1.12.2-5.1.51.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/EnderIO-1.12.2-5.1.51.jar"
           }
         },
         {
@@ -843,7 +843,7 @@
           "artifact": {
             "size": 98842,
             "MD5": "c8d24d0cba9a853af74935019869db1a",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/EnderIO-endergy-1.12.2-5.1.51.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/EnderIO-endergy-1.12.2-5.1.51.jar"
           }
         },
         {
@@ -857,7 +857,7 @@
           "artifact": {
             "size": 223250,
             "MD5": "c66000e24e8c11675db554c644b31bda",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/EnderStorage-1.12.2-2.4.6.137-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/EnderStorage-1.12.2-2.4.6.137-universal.jar"
           }
         },
         {
@@ -871,7 +871,7 @@
           "artifact": {
             "size": 510317,
             "MD5": "138f061801021d3c8b46b64737eb5859",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ExCompressum_1.12.2-3.0.31.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ExCompressum_1.12.2-3.0.31.jar"
           }
         },
         {
@@ -885,7 +885,7 @@
           "artifact": {
             "size": 281052,
             "MD5": "6a01826309531ba47dea317e5dd5b409",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Exchangers-1.12.2-2.8.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Exchangers-1.12.2-2.8.jar"
           }
         },
         {
@@ -899,7 +899,7 @@
           "artifact": {
             "size": 137884,
             "MD5": "f36f51d8234dd24632348e2b9c43f60f",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ExpandedEquivalence-1.12.2-12r.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ExpandedEquivalence-1.12.2-12r.jar"
           }
         },
         {
@@ -913,7 +913,7 @@
           "artifact": {
             "size": 2573646,
             "MD5": "8b08b48c9d4e7e374445856c8bc20b68",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ExtraCells-1.12.2-2.6.3aNIGHTLY.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ExtraCells-1.12.2-2.6.3aNIGHTLY.jar"
           }
         },
         {
@@ -927,7 +927,7 @@
           "artifact": {
             "size": 1085265,
             "MD5": "35b0473d3abddf97d18f3c4c5b7c3d12",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ExtremeReactors-1.12.2-0.4.5.50.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ExtremeReactors-1.12.2-0.4.5.50.jar"
           }
         },
         {
@@ -941,7 +941,7 @@
           "artifact": {
             "size": 885574,
             "MD5": "1bef55289ad005c2e4b085058083f687",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/FTBLib-5.4.1.99.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/FTBLib-5.4.1.99.jar"
           }
         },
         {
@@ -955,7 +955,7 @@
           "artifact": {
             "size": 862948,
             "MD5": "3a2432afa662b72b4adb4b7e1136cf89",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/FTBQuests-1.5.1.146.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/FTBQuests-1.5.1.146.jar"
           }
         },
         {
@@ -969,7 +969,7 @@
           "artifact": {
             "size": 422864,
             "MD5": "aa6230163d711febc5b3e4e5bb97edac",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/FTBUtilities-5.4.0.96.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/FTBUtilities-5.4.0.96.jar"
           }
         },
         {
@@ -983,7 +983,7 @@
           "artifact": {
             "size": 42092,
             "MD5": "33ab1e06c29c9a4d1ddaeddd14a273c6",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/FTBUtilitiesBackups-1.0.0.4.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/FTBUtilitiesBackups-1.0.0.4.jar"
           }
         },
         {
@@ -997,7 +997,7 @@
           "artifact": {
             "size": 246686,
             "MD5": "2296ff4210f4e556da687be2ce1550a2",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/FarmingForBlockheads_1.12.2-3.1.28.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/FarmingForBlockheads_1.12.2-3.1.28.jar"
           }
         },
         {
@@ -1011,7 +1011,7 @@
           "artifact": {
             "size": 10035,
             "MD5": "b84cc8a587dbd35fef2dbc3e0b9435aa",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/FastFurnace-1.12.2-1.3.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/FastFurnace-1.12.2-1.3.1.jar"
           }
         },
         {
@@ -1025,7 +1025,7 @@
           "artifact": {
             "size": 5200,
             "MD5": "18096ffb7f58d94f8e5a7bf2ff160f0f",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/FastLeafDecay-v14.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/FastLeafDecay-v14.jar"
           }
         },
         {
@@ -1039,7 +1039,7 @@
           "artifact": {
             "size": 26322,
             "MD5": "2a0e8335926fd413521d2432c91842a9",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/FastWorkbench-1.12.2-1.7.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/FastWorkbench-1.12.2-1.7.2.jar"
           }
         },
         {
@@ -1053,7 +1053,7 @@
           "artifact": {
             "size": 32750,
             "MD5": "9f7c289b438817d581a3825ef0015611",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/FasterLadderClimbing-1.12-0.1-146.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/FasterLadderClimbing-1.12-0.1-146.jar"
           }
         },
         {
@@ -1067,7 +1067,7 @@
           "artifact": {
             "size": 185034,
             "MD5": "37c20d1facc17b2f209fe2f5a7bd5e6c",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/FluidCows-1.1.21.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/FluidCows-1.1.21.jar"
           }
         },
         {
@@ -1081,7 +1081,7 @@
           "artifact": {
             "size": 1304958,
             "MD5": "e45e04bc38dc373aaef0415c2e2d441d",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ForgeMultipart-1.12.2-2.6.2.83-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ForgeMultipart-1.12.2-2.6.2.83-universal.jar"
           }
         },
         {
@@ -1095,7 +1095,7 @@
           "artifact": {
             "size": 6278399,
             "MD5": "2da79fce72265eab0541e565636d389d",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Forgelin-1.8.4.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Forgelin-1.8.4.jar"
           }
         },
         {
@@ -1109,7 +1109,7 @@
           "artifact": {
             "size": 18396,
             "MD5": "c7679200bdf1f6cb71361555407a4c7f",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/FullscreenWindowed-1.12-1.6.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/FullscreenWindowed-1.12-1.6.0.jar"
           }
         },
         {
@@ -1123,7 +1123,7 @@
           "artifact": {
             "size": 143849,
             "MD5": "b6ea057c40fe712fd8b86aaab2b5d2b0",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/GasConduits-1.12.2-1.2.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/GasConduits-1.12.2-1.2.2.jar"
           }
         },
         {
@@ -1137,7 +1137,7 @@
           "artifact": {
             "size": 23675,
             "MD5": "b5a5bdf1da8a9bd5ef09cd7b5cac1973",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/GooglyEyes-1.12.2-7.1.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/GooglyEyes-1.12.2-7.1.0.jar"
           }
         },
         {
@@ -1151,7 +1151,7 @@
           "artifact": {
             "size": 2208530,
             "MD5": "68c546a87aafcd1bc3800981889fd4cc",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/HammerCore-1.12.2-2.0.4.7.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/HammerCore-1.12.2-2.0.4.7.jar"
           }
         },
         {
@@ -1165,7 +1165,7 @@
           "artifact": {
             "size": 6780914,
             "MD5": "cd6b232f88d379500aec69297fbf2592",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ImmersiveEngineering-0.12-91.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ImmersiveEngineering-0.12-91.jar"
           }
         },
         {
@@ -1179,7 +1179,7 @@
           "artifact": {
             "size": 3034605,
             "MD5": "82b15eaa0c2b4421408db074ff464374",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/IntegratedDynamics-1.12.2-1.1.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/IntegratedDynamics-1.12.2-1.1.0.jar"
           }
         },
         {
@@ -1193,7 +1193,7 @@
           "artifact": {
             "size": 484209,
             "MD5": "4dcb9b2079097ca6ae15cd723f071f94",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/IntegratedTunnels-1.12.2-1.6.10.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/IntegratedTunnels-1.12.2-1.6.10.jar"
           }
         },
         {
@@ -1207,7 +1207,7 @@
           "artifact": {
             "size": 172247,
             "MD5": "4b2cbad2243b62fc15a712f9159f3bc5",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/IntegrationForegoing-1.12.2-1.9.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/IntegrationForegoing-1.12.2-1.9.jar"
           }
         },
         {
@@ -1221,7 +1221,7 @@
           "artifact": {
             "size": 285813,
             "MD5": "3c5d428facb0c0bf231c7f14f9fcbe0f",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/InventoryTweaks-1.64+dev.146.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/InventoryTweaks-1.64+dev.146.jar"
           }
         },
         {
@@ -1235,7 +1235,7 @@
           "artifact": {
             "size": 465363,
             "MD5": "9fd50b1827b711704c69789aa94ac2ca",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/IronBackpacks-1.12.2-3.0.8-12.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/IronBackpacks-1.12.2-3.0.8-12.jar"
           }
         },
         {
@@ -1249,7 +1249,7 @@
           "artifact": {
             "size": 78422,
             "MD5": "9d15a21d3f89354c9611f81215b66eb1",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ItemFilters-1.0.3.12.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ItemFilters-1.0.3.12.jar"
           }
         },
         {
@@ -1263,7 +1263,7 @@
           "artifact": {
             "size": 22714,
             "MD5": "be626dce632db45ab61512e5a6d9cdd7",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/JustEnoughEnergistics-1.12.2-1.0.8.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/JustEnoughEnergistics-1.12.2-1.0.8.jar"
           }
         },
         {
@@ -1277,7 +1277,7 @@
           "artifact": {
             "size": 222270,
             "MD5": "87a4666549a60d8fb423883dd4ee6232",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/JustEnoughResources-1.12.2-0.9.2.60.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/JustEnoughResources-1.12.2-0.9.2.60.jar"
           }
         },
         {
@@ -1291,7 +1291,7 @@
           "artifact": {
             "size": 23967,
             "MD5": "e669180a9c891603beea7c7fcb6df7ef",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/KleeSlabs_1.12.2-5.4.12.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/KleeSlabs_1.12.2-5.4.12.jar"
           }
         },
         {
@@ -1305,7 +1305,7 @@
           "artifact": {
             "size": 60403,
             "MD5": "dc3649afa5c116285ed2c3b7a07e82ed",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/LootTweaker-1.12.2-0.0.10.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/LootTweaker-1.12.2-0.0.10.jar"
           }
         },
         {
@@ -1319,7 +1319,7 @@
           "artifact": {
             "size": 76753,
             "MD5": "0dae43ef5376822db0399ad254207aa3",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/LunatriusCore-1.12.2-1.2.0.42-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/LunatriusCore-1.12.2-1.2.0.42-universal.jar"
           }
         },
         {
@@ -1333,7 +1333,7 @@
           "artifact": {
             "size": 250663,
             "MD5": "c41edc75080c464b591ceb7aad690f6d",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/MPUtils-1.12.2-1.5.7.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/MPUtils-1.12.2-1.5.7.jar"
           }
         },
         {
@@ -1347,7 +1347,7 @@
           "artifact": {
             "size": 30002,
             "MD5": "b46748362c046d70b821121331246aa5",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/MTLib-3.0.6.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/MTLib-3.0.6.jar"
           }
         },
         {
@@ -1361,7 +1361,7 @@
           "artifact": {
             "size": 4174,
             "MD5": "851ffaf71aad9d7977be26dce6d2f595",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/MainMenuScale-1.3.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/MainMenuScale-1.3.2.jar"
           }
         },
         {
@@ -1375,7 +1375,7 @@
           "artifact": {
             "size": 843486,
             "MD5": "1026f5f8d3c4997831decd9023ca65a6",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Mantle-1.12-1.3.3.55.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Mantle-1.12-1.3.3.55.jar"
           }
         },
         {
@@ -1389,7 +1389,7 @@
           "artifact": {
             "size": 7859461,
             "MD5": "d5ec8eaf21f89bfb2c50cacb9efb1342",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Mekanism-1.12.2-9.8.1.383.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Mekanism-1.12.2-9.8.1.383.jar"
           }
         },
         {
@@ -1403,7 +1403,7 @@
           "artifact": {
             "size": 336247,
             "MD5": "191375630be7b5785bf6639a4186c754",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/MekanismGenerators-1.12.2-9.8.1.383.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/MekanismGenerators-1.12.2-9.8.1.383.jar"
           }
         },
         {
@@ -1417,7 +1417,7 @@
           "artifact": {
             "size": 158884,
             "MD5": "d582562cb55a61ac1ebb9f8b39e27663",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/MekanismTools-1.12.2-9.8.1.383.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/MekanismTools-1.12.2-9.8.1.383.jar"
           }
         },
         {
@@ -1431,7 +1431,7 @@
           "artifact": {
             "size": 8159420,
             "MD5": "31e0d047b11517c77679184564024f11",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/MightyEnderChicken-1.12.2-7.3.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/MightyEnderChicken-1.12.2-7.3.0.jar"
           }
         },
         {
@@ -1445,7 +1445,7 @@
           "artifact": {
             "size": 951922,
             "MD5": "a93bd7ac7c3fe91626308c9636ba0e46",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/MobGrindingUtils-0.3.13.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/MobGrindingUtils-0.3.13.jar"
           }
         },
         {
@@ -1459,7 +1459,7 @@
           "artifact": {
             "size": 122332,
             "MD5": "d0531330b15f54cc26776ff22936ae59",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/MoreFurnaces-1.12.2-1.10.6.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/MoreFurnaces-1.12.2-1.10.6.jar"
           }
         },
         {
@@ -1473,7 +1473,7 @@
           "artifact": {
             "size": 1032048,
             "MD5": "5de1a67a266715dbaba0f8e597257967",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Morph-1.12.2-7.1.3.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Morph-1.12.2-7.1.3.jar"
           }
         },
         {
@@ -1487,7 +1487,7 @@
           "artifact": {
             "size": 30619,
             "MD5": "a56d6a54721acef7fa4863d4efd20638",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Morph-o-Tool-1.2-21.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Morph-o-Tool-1.2-21.jar"
           }
         },
         {
@@ -1501,7 +1501,7 @@
           "artifact": {
             "size": 21508,
             "MD5": "357dc3701a8c7d4109147c666f6a4300",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Morpheus-1.12.2-3.5.106.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Morpheus-1.12.2-3.5.106.jar"
           }
         },
         {
@@ -1515,7 +1515,7 @@
           "artifact": {
             "size": 75170,
             "MD5": "e4dcbf47c3f99a780681e3a3a9fcf9e9",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/MouseTweaks-2.10-mc1.12.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/MouseTweaks-2.10-mc1.12.2.jar"
           }
         },
         {
@@ -1529,7 +1529,7 @@
           "artifact": {
             "size": 803400,
             "MD5": "edff42a77c41f9191722b5b794e37668",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/MrTJPCore-1.12.2-2.1.4.43-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/MrTJPCore-1.12.2-2.1.4.43-universal.jar"
           }
         },
         {
@@ -1543,7 +1543,7 @@
           "artifact": {
             "size": 134055,
             "MD5": "ead0f02e214ab12b4f7b86c79fc23ffa",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/MysticalAgradditions-1.12.2-1.3.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/MysticalAgradditions-1.12.2-1.3.2.jar"
           }
         },
         {
@@ -1557,7 +1557,7 @@
           "artifact": {
             "size": 1536124,
             "MD5": "b7b81747d20baf1c5547ee302bad1420",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/MysticalAgriculture-1.12.2-1.7.5.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/MysticalAgriculture-1.12.2-1.7.5.jar"
           }
         },
         {
@@ -1571,7 +1571,7 @@
           "artifact": {
             "size": 18527,
             "MD5": "c371deab2490ecd6a2689eed09302d23",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Neat%201.4-17.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Neat%201.4-17.jar"
           }
         },
         {
@@ -1585,7 +1585,7 @@
           "artifact": {
             "size": 40598,
             "MD5": "97414eccfd9a966f01d882dcfdcbfa65",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/NoMobSpawningOnTrees-1.2.2-mc1.12.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/NoMobSpawningOnTrees-1.2.2-mc1.12.2.jar"
           }
         },
         {
@@ -1599,7 +1599,7 @@
           "artifact": {
             "size": 7238,
             "MD5": "5f56c5ad6c1af0a2d0b9b8c250801686",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/NoTemaStahp-1.12.2-1.0.3.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/NoTemaStahp-1.12.2-1.0.3.jar"
           }
         },
         {
@@ -1613,7 +1613,7 @@
           "artifact": {
             "size": 470831,
             "MD5": "03b98ad8c1553c59f969022b6571dd2c",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/NotEnoughItems-1.12.2-2.4.3.245-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/NotEnoughItems-1.12.2-2.4.3.245-universal.jar"
           }
         },
         {
@@ -1627,7 +1627,7 @@
           "artifact": {
             "size": 3217616,
             "MD5": "cd7f642f983669c6ae94d6a999d0d6e9",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/OpenBlocks-1.12.2-1.8.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/OpenBlocks-1.12.2-1.8.1.jar"
           }
         },
         {
@@ -1641,7 +1641,7 @@
           "artifact": {
             "size": 2639587,
             "MD5": "9c0606c553fbdf86e2f459c1cc40414d",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/OpenModsLib-1.12.2-0.12.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/OpenModsLib-1.12.2-0.12.2.jar"
           }
         },
         {
@@ -1655,7 +1655,7 @@
           "artifact": {
             "size": 2598821,
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/OptiFine_1.12.2_HD_U_F5.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/OptiFine_1.12.2_HD_U_F5.jar"
           }
         },
         {
@@ -1669,7 +1669,7 @@
           "artifact": {
             "size": 180481,
             "MD5": "9c7d660f3a6fb5b0a7bbb9c2891bcfad",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/OreExcavation-1.4.140.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/OreExcavation-1.4.140.jar"
           }
         },
         {
@@ -1683,7 +1683,7 @@
           "artifact": {
             "size": 4907780,
             "MD5": "d49e4034973a38b9a92d1f9939decd70",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Pam%27s%20HarvestCraft%201.12.2zf.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Pam%27s%20HarvestCraft%201.12.2zf.jar"
           }
         },
         {
@@ -1697,7 +1697,7 @@
           "artifact": {
             "size": 76902,
             "MD5": "a9ecfa296b2b1203ed5a68ed6c01833a",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Placebo-1.12.2-1.6.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Placebo-1.12.2-1.6.0.jar"
           }
         },
         {
@@ -1711,7 +1711,7 @@
           "artifact": {
             "size": 1790588,
             "MD5": "34341d2c5205c9212fe20e9adaffe475",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ProjectE-1.12-PE1.3.2h.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ProjectE-1.12-PE1.3.2h.jar"
           }
         },
         {
@@ -1725,7 +1725,7 @@
           "artifact": {
             "size": 76163,
             "MD5": "0fe5b007bc3fb591f5239a2dc95d146d",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ProjectEX-1.0.0.10.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ProjectEX-1.0.0.10.jar"
           }
         },
         {
@@ -1739,7 +1739,7 @@
           "artifact": {
             "size": 473921,
             "MD5": "377855d29e1feabc16e201b112487cee",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ProjectIntelligence-1.12.2-1.0.8.25-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ProjectIntelligence-1.12.2-1.0.8.25-universal.jar"
           }
         },
         {
@@ -1753,7 +1753,7 @@
           "artifact": {
             "size": 2036136,
             "MD5": "1380ad8d4ffbc3f1189078473f6f10f9",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ProjectRed-1.12.2-4.9.4.120-Base.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ProjectRed-1.12.2-4.9.4.120-Base.jar"
           }
         },
         {
@@ -1767,7 +1767,7 @@
           "artifact": {
             "size": 67384,
             "MD5": "56c34f44395c918926fc5751f82d70b9",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ProjectRed-1.12.2-4.9.4.120-compat.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ProjectRed-1.12.2-4.9.4.120-compat.jar"
           }
         },
         {
@@ -1781,7 +1781,7 @@
           "artifact": {
             "size": 1894139,
             "MD5": "eabf2010d23f3cfc583cd809a7b0febf",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ProjectRed-1.12.2-4.9.4.120-fabrication.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ProjectRed-1.12.2-4.9.4.120-fabrication.jar"
           }
         },
         {
@@ -1795,7 +1795,7 @@
           "artifact": {
             "size": 3923751,
             "MD5": "0d8259b233ab89d2171b6337167e7e6f",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ProjectRed-1.12.2-4.9.4.120-integration.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ProjectRed-1.12.2-4.9.4.120-integration.jar"
           }
         },
         {
@@ -1809,7 +1809,7 @@
           "artifact": {
             "size": 724477,
             "MD5": "b9ead4f7e70dd4c0f68cd8c690249753",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ProjectRed-1.12.2-4.9.4.120-lighting.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ProjectRed-1.12.2-4.9.4.120-lighting.jar"
           }
         },
         {
@@ -1823,7 +1823,7 @@
           "artifact": {
             "size": 2596509,
             "MD5": "cafa40d180f86081e748d15ba5a0ffc9",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ProjectRed-1.12.2-4.9.4.120-mechanical.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ProjectRed-1.12.2-4.9.4.120-mechanical.jar"
           }
         },
         {
@@ -1837,7 +1837,7 @@
           "artifact": {
             "size": 1757378,
             "MD5": "c12d66fcaff082f7231a7f97cb0199cd",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Psi-r1.1-77.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Psi-r1.1-77.jar"
           }
         },
         {
@@ -1851,7 +1851,7 @@
           "artifact": {
             "size": 3292860,
             "MD5": "46851d970cc78a6354ca70139e3fe8f3",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/RandomThings-MC1.12.2-4.2.7.3.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/RandomThings-MC1.12.2-4.2.7.3.jar"
           }
         },
         {
@@ -1865,7 +1865,7 @@
           "artifact": {
             "size": 65733,
             "MD5": "7ecff9f80b9cd0986b18489405136e81",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/RealisticItemDrops-1.2.14.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/RealisticItemDrops-1.2.14.jar"
           }
         },
         {
@@ -1879,7 +1879,7 @@
           "artifact": {
             "size": 1936807,
             "MD5": "6266426ad89e6b9380aa87d4eef3316b",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/RebornCore-1.12.2-3.16.2.473-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/RebornCore-1.12.2-3.16.2.473-universal.jar"
           }
         },
         {
@@ -1893,7 +1893,7 @@
           "artifact": {
             "size": 262973,
             "MD5": "3bbe81cebe761061b8d16f6c981e30b4",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/RedstoneArsenal-1.12.2-2.6.3.18-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/RedstoneArsenal-1.12.2-2.6.3.18-universal.jar"
           }
         },
         {
@@ -1907,7 +1907,7 @@
           "artifact": {
             "size": 36278,
             "MD5": "f00530b437c41a189dbf8a85d0ac40b6",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/RedstoneFlux-1.12-2.1.0.6-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/RedstoneFlux-1.12-2.1.0.6-universal.jar"
           }
         },
         {
@@ -1921,7 +1921,7 @@
           "artifact": {
             "size": 16612,
             "MD5": "51141e882f96ce756b9b3d25f2acdf57",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ResourceLoader-MC1.12.1-1.5.3.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ResourceLoader-MC1.12.1-1.5.3.jar"
           }
         },
         {
@@ -1935,7 +1935,7 @@
           "artifact": {
             "size": 3091,
             "MD5": "56cd311c1464e963c81df9b3166a02f3",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ServerLevelType-1.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ServerLevelType-1.2.jar"
           }
         },
         {
@@ -1949,7 +1949,7 @@
           "artifact": {
             "size": 464802,
             "MD5": "4649d8bc9cf94f032b4482692f4b4c2d",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ShadowMC-1.12-3.8.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ShadowMC-1.12-3.8.0.jar"
           }
         },
         {
@@ -1963,7 +1963,7 @@
           "artifact": {
             "size": 664384,
             "MD5": "90d79e964142ea700f4fa81945510918",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/SimplyJetpacks2-1.12.2-2.2.14.67.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/SimplyJetpacks2-1.12.2-2.2.14.67.jar"
           }
         },
         {
@@ -1977,7 +1977,7 @@
           "artifact": {
             "size": 282904,
             "MD5": "99f7cd6644efabbe6055f2e9f429aafb",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/SmoothFont-mc1.12.2-2.1.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/SmoothFont-mc1.12.2-2.1.1.jar"
           }
         },
         {
@@ -1991,7 +1991,7 @@
           "artifact": {
             "size": 21346,
             "MD5": "7d6c5f38d8976c8238d60b19a4947ea7",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Snad-1.12.1-1.7.09.16a.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Snad-1.12.1-1.7.09.16a.jar"
           }
         },
         {
@@ -2005,7 +2005,7 @@
           "artifact": {
             "size": 46578,
             "MD5": "dc8b5a433b3757c45c3ea82801008442",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/SplashAnimation-0.2.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/SplashAnimation-0.2.1.jar"
           }
         },
         {
@@ -2019,7 +2019,7 @@
           "artifact": {
             "size": 28269,
             "MD5": "55cb87436f8cb4f0dfff24a017b65949",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/StoneBlockDimensions-1.0.3.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/StoneBlockDimensions-1.0.3.jar"
           }
         },
         {
@@ -2033,7 +2033,7 @@
           "artifact": {
             "size": 124986,
             "MD5": "1a20a11a4d381f61763bf041b1ec0215",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/StoneBlockUtilities-2.1.5.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/StoneBlockUtilities-2.1.5.jar"
           }
         },
         {
@@ -2047,7 +2047,7 @@
           "artifact": {
             "size": 100016,
             "MD5": "a47d6a3d1271f0e4cf7c36e2ffaa0d3a",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/StoneChest-1.0.4.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/StoneChest-1.0.4.jar"
           }
         },
         {
@@ -2061,7 +2061,7 @@
           "artifact": {
             "size": 604797,
             "MD5": "039cbee23cf7fefe65af1114483fb57e",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/StorageDrawers-1.12.2-5.4.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/StorageDrawers-1.12.2-5.4.0.jar"
           }
         },
         {
@@ -2075,7 +2075,7 @@
           "artifact": {
             "size": 4004838,
             "MD5": "9c8942eff75c9f2b4a13ec085c118b56",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/TConstruct-1.12.2-2.12.0.157.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/TConstruct-1.12.2-2.12.0.157.jar"
           }
         },
         {
@@ -2089,7 +2089,7 @@
           "artifact": {
             "size": 95669,
             "MD5": "9c00338781ad5955e36fbcd532f684bc",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/TS2K16-1.2.10.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/TS2K16-1.2.10.jar"
           }
         },
         {
@@ -2103,7 +2103,7 @@
           "artifact": {
             "size": 11360786,
             "MD5": "3b13783ccaafb5d5b9ce8cb85e87fff6",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Thaumcraft-1.12.2-6.1.BETA26.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Thaumcraft-1.12.2-6.1.BETA26.jar"
           }
         },
         {
@@ -2117,7 +2117,7 @@
           "artifact": {
             "size": 17224,
             "MD5": "06a0c80b784a340e1f9a91e104edb644",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ThaumicInventoryScanning_1.12.2-2.0.10.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ThaumicInventoryScanning_1.12.2-2.0.10.jar"
           }
         },
         {
@@ -2131,7 +2131,7 @@
           "artifact": {
             "size": 59213,
             "MD5": "ac9c39b39b4ea8dc40fe7b8a55d773d1",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ThaumicJEI-1.12.2-1.6.0-27.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ThaumicJEI-1.12.2-1.6.0-27.jar"
           }
         },
         {
@@ -2145,7 +2145,7 @@
           "artifact": {
             "size": 77257,
             "MD5": "87ecb948177612c49071d77a33ab5db1",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ThaumicTerminal-1.0.12.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ThaumicTerminal-1.0.12.jar"
           }
         },
         {
@@ -2159,7 +2159,7 @@
           "artifact": {
             "size": 106843,
             "MD5": "a6993f3947a833582909c7e31325987c",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ThermalCultivation-1.12.2-0.3.3.12-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ThermalCultivation-1.12.2-0.3.3.12-universal.jar"
           }
         },
         {
@@ -2173,7 +2173,7 @@
           "artifact": {
             "size": 762980,
             "MD5": "3317c6f327d7ebe0ee3bd6206ececb02",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ThermalDynamics-1.12.2-2.5.5.21-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ThermalDynamics-1.12.2-2.5.5.21-universal.jar"
           }
         },
         {
@@ -2187,7 +2187,7 @@
           "artifact": {
             "size": 2426151,
             "MD5": "53144cfec12795862d20aa07750c9a59",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ThermalExpansion-1.12.2-5.5.4.43-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ThermalExpansion-1.12.2-5.5.4.43-universal.jar"
           }
         },
         {
@@ -2201,7 +2201,7 @@
           "artifact": {
             "size": 2312713,
             "MD5": "0f61017dc9412ba4aad8a64f7bca16bb",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ThermalFoundation-1.12.2-2.6.3.27-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ThermalFoundation-1.12.2-2.6.3.27-universal.jar"
           }
         },
         {
@@ -2215,7 +2215,7 @@
           "artifact": {
             "size": 197601,
             "MD5": "0a670c0665e1b2d41300f7ed6da148b4",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ThermalInnovation-1.12.2-0.3.3.12-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ThermalInnovation-1.12.2-0.3.3.12-universal.jar"
           }
         },
         {
@@ -2229,7 +2229,7 @@
           "artifact": {
             "size": 95850,
             "MD5": "f9253fe86c6649afbf49d221c71ba19a",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/TinkerToolLeveling-1.12.2-1.1.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/TinkerToolLeveling-1.12.2-1.1.0.jar"
           }
         },
         {
@@ -2243,7 +2243,7 @@
           "artifact": {
             "size": 11641,
             "MD5": "eb4bba23a510da1a6f9c4e916c45714f",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/TipTheScales-1.12.2-1.0.4.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/TipTheScales-1.12.2-1.0.4.jar"
           }
         },
         {
@@ -2257,7 +2257,7 @@
           "artifact": {
             "size": 21668,
             "MD5": "e431fec0248132e5c4d03ad70bd4dc6b",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Toast%20Control-1.12.2-1.8.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Toast%20Control-1.12.2-1.8.1.jar"
           }
         },
         {
@@ -2271,7 +2271,7 @@
           "artifact": {
             "size": 446678,
             "MD5": "bea9b18295a2b7762dedd938f447353c",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Translocators-1.12.2-2.5.2.81-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Translocators-1.12.2-2.5.2.81-universal.jar"
           }
         },
         {
@@ -2285,7 +2285,7 @@
           "artifact": {
             "size": 192476,
             "MD5": "b1ba004241d86a3e1280c8911c2b4ff2",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/UniDict-1.12.2-2.9.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/UniDict-1.12.2-2.9.2.jar"
           }
         },
         {
@@ -2299,7 +2299,7 @@
           "artifact": {
             "size": 28927,
             "MD5": "6d204a95d7dbf764477333f9ca91b59e",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Uppers-0.0.6.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Uppers-0.0.6.jar"
           }
         },
         {
@@ -2313,7 +2313,7 @@
           "artifact": {
             "size": 1117860,
             "MD5": "eb05714c798a94f52ddd8617857052ab",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/VanillaFix-1.0.10-99.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/VanillaFix-1.0.10-99.jar"
           }
         },
         {
@@ -2327,7 +2327,7 @@
           "artifact": {
             "size": 364036,
             "MD5": "2305b3f0d60cd55510c4dd08abdb3656",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/WR-CBE-1.12.2-2.3.2.33-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/WR-CBE-1.12.2-2.3.2.33-universal.jar"
           }
         },
         {
@@ -2341,7 +2341,7 @@
           "artifact": {
             "size": 129188,
             "MD5": "da46d9a391cb6ac4d3bd453db2158e58",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/WanionLib-1.12.2-2.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/WanionLib-1.12.2-2.2.jar"
           }
         },
         {
@@ -2355,7 +2355,7 @@
           "artifact": {
             "size": 241658,
             "MD5": "7e46208a35505f189f6346a1c17c34fd",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/WirelessCraftingTerminal-1.12.2-3.12.93.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/WirelessCraftingTerminal-1.12.2-3.12.93.jar"
           }
         },
         {
@@ -2369,7 +2369,7 @@
           "artifact": {
             "size": 395910,
             "MD5": "2cd2c084b6c9fd1a271064e6de807814",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Xaeros_Minimap_1.18.1_Forge_1.12.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Xaeros_Minimap_1.18.1_Forge_1.12.jar"
           }
         },
         {
@@ -2383,7 +2383,7 @@
           "artifact": {
             "size": 449444,
             "MD5": "a0dda7a3c7aac216e75260d2142cc7f3",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/Xtones-1.12-1.0.8-11.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/Xtones-1.12-1.0.8-11.jar"
           }
         },
         {
@@ -2397,7 +2397,7 @@
           "artifact": {
             "size": 231457,
             "MD5": "3d8deb5a3b5d62381504d561e50c98dd",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/YABBA-1.1.2.51.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/YABBA-1.1.2.51.jar"
           }
         },
         {
@@ -2411,7 +2411,7 @@
           "artifact": {
             "size": 63867,
             "MD5": "88164b3766ded7c2636b4ba0f19ed198",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/YNot-0.2.4.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/YNot-0.2.4.jar"
           }
         },
         {
@@ -2425,7 +2425,7 @@
           "artifact": {
             "size": 513374,
             "MD5": "8594b7501c1ecc1bdaaa8ef42b7dbdda",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ae2stuff-0.7.0.4-mc1.12.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ae2stuff-0.7.0.4-mc1.12.2.jar"
           }
         },
         {
@@ -2439,7 +2439,7 @@
           "artifact": {
             "size": 44041,
             "MD5": "da672a35350bb77a07b9c65bad992153",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/angelRingToBauble-1.12-0.3.1.50+d4e654e.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/angelRingToBauble-1.12-0.3.1.50+d4e654e.jar"
           }
         },
         {
@@ -2453,7 +2453,7 @@
           "artifact": {
             "size": 4062630,
             "MD5": "b8667d60a761d5b5ae3c8a15192f9e28",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/appliedenergistics2-rv6-stable-7.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/appliedenergistics2-rv6-stable-7.jar"
           }
         },
         {
@@ -2467,7 +2467,7 @@
           "artifact": {
             "size": 921733,
             "MD5": "cc964d41fad4832a0850cf9da45d0414",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/architecturecraft-1.12-3.98.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/architecturecraft-1.12-3.98.jar"
           }
         },
         {
@@ -2481,7 +2481,7 @@
           "artifact": {
             "size": 11034,
             "MD5": "5f6036b67ea0414ded08f495a53788c6",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/badwithernocookiereloaded-1.12.2-3.3.16.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/badwithernocookiereloaded-1.12.2-3.3.16.jar"
           }
         },
         {
@@ -2495,7 +2495,7 @@
           "artifact": {
             "size": 685028,
             "MD5": "caae1ceb2cbcdc7bd7a6acf078788faf",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/base-1.12.2-3.13.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/base-1.12.2-3.13.0.jar"
           }
         },
         {
@@ -2509,7 +2509,7 @@
           "artifact": {
             "size": 1962731,
             "MD5": "d2b8ba08414ac12737eb5ecbf92a19d9",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/bdlib-1.14.3.12-mc1.12.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/bdlib-1.14.3.12-mc1.12.2.jar"
           }
         },
         {
@@ -2523,7 +2523,7 @@
           "artifact": {
             "size": 21613,
             "MD5": "336fea80502d84a94a04791c64f1b071",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/bedpatch-2.2-1.12.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/bedpatch-2.2-1.12.2.jar"
           }
         },
         {
@@ -2537,7 +2537,7 @@
           "artifact": {
             "size": 105052,
             "MD5": "03b28232d2a5f6c8d5e202c0f9fbb0b3",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/blockcraftery-1.12.2-1.3.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/blockcraftery-1.12.2-1.3.1.jar"
           }
         },
         {
@@ -2551,7 +2551,7 @@
           "artifact": {
             "size": 568155,
             "MD5": "dbfe5343f643f3913245ddc2d7e2c876",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/bonsaitrees-1.1.3-b156.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/bonsaitrees-1.1.3-b156.jar"
           }
         },
         {
@@ -2565,7 +2565,7 @@
           "artifact": {
             "size": 4768815,
             "MD5": "0f4d937c56b9d1cb0e99d30f3eaca6cc",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/buildcraft-all-7.99.24.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/buildcraft-all-7.99.24.2.jar"
           }
         },
         {
@@ -2579,7 +2579,7 @@
           "artifact": {
             "size": 253835,
             "MD5": "9827f7e76e178b7deca07fd3131771b0",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/chickens-6.1.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/chickens-6.1.0.jar"
           }
         },
         {
@@ -2593,7 +2593,7 @@
           "artifact": {
             "size": 737407,
             "MD5": "e056e23559965f2ebabf47aad0fe51a3",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/chiselsandbits-14.33.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/chiselsandbits-14.33.jar"
           }
         },
         {
@@ -2607,7 +2607,7 @@
           "artifact": {
             "size": 730062,
             "MD5": "e195df8997b3e7fe70b3b39266aceb79",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/compactmachines3-1.12.2-3.0.18-b278.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/compactmachines3-1.12.2-3.0.18-b278.jar"
           }
         },
         {
@@ -2621,7 +2621,7 @@
           "artifact": {
             "size": 65319,
             "MD5": "be35c47a1ab0d2c26bfe84b3f7938662",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/cxlibrary-1.12.1-1.6.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/cxlibrary-1.12.1-1.6.1.jar"
           }
         },
         {
@@ -2635,7 +2635,7 @@
           "artifact": {
             "size": 5222,
             "MD5": "1d616cb7b25de3ae44f06e26d18bd07e",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/diethopper-1.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/diethopper-1.1.jar"
           }
         },
         {
@@ -2649,7 +2649,7 @@
           "artifact": {
             "size": 1001848,
             "MD5": "ecd45a01612427f81b0520767b475dd9",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/environmentaltech-1.12.2-2.0.20.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/environmentaltech-1.12.2-2.0.20.1.jar"
           }
         },
         {
@@ -2663,7 +2663,7 @@
           "artifact": {
             "size": 953920,
             "MD5": "59605be185c3d5e220cdd99268a9ddfd",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/exnihilocreatio-1.12.2-0.4.7.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/exnihilocreatio-1.12.2-0.4.7.1.jar"
           }
         },
         {
@@ -2677,7 +2677,7 @@
           "artifact": {
             "size": 3226408,
             "MD5": "1ea591619e6d5204bf077214868772ef",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/extrautils2-1.12-1.9.9.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/extrautils2-1.12-1.9.9.jar"
           }
         },
         {
@@ -2691,7 +2691,7 @@
           "artifact": {
             "size": 139609,
             "MD5": "1a9d559c5d183029733e1ddb4b15307b",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/flatcoloredblocks-mc1.12-6.8.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/flatcoloredblocks-mc1.12-6.8.jar"
           }
         },
         {
@@ -2705,7 +2705,7 @@
           "artifact": {
             "size": 382097,
             "MD5": "942966c1a1ba7ab919c62461c54a88a1",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/fluxnetworks-1.12.2-4.0.7-24.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/fluxnetworks-1.12.2-4.0.7-24.jar"
           }
         },
         {
@@ -2719,7 +2719,7 @@
           "artifact": {
             "size": 211210,
             "MD5": "ec2829750206833af9ee098c5ddb8e32",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/foamfix-0.10.5-1.12.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/foamfix-0.10.5-1.12.2.jar"
           }
         },
         {
@@ -2733,7 +2733,7 @@
           "artifact": {
             "size": 30248,
             "MD5": "06fd1df89c696c40a6c846bafaf6b26a",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/framland-1.12.2-1.0.10.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/framland-1.12.2-1.0.10.jar"
           }
         },
         {
@@ -2747,7 +2747,7 @@
           "artifact": {
             "size": 129433,
             "MD5": "44c8e473abb93250df0f51fc0b050041",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/gravestone-1.10.3.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/gravestone-1.10.3.jar"
           }
         },
         {
@@ -2761,7 +2761,7 @@
           "artifact": {
             "size": 674868,
             "MD5": "ac58a1d12d9e0c249f581e4e27f61182",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/hatchery-1.12.2-2.2.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/hatchery-1.12.2-2.2.2.jar"
           }
         },
         {
@@ -2775,7 +2775,7 @@
           "artifact": {
             "size": 581642,
             "MD5": "a167bfbd5d02fd6f81a435d53fa984a9",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/iChunUtil-1.12.2-7.2.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/iChunUtil-1.12.2-7.2.1.jar"
           }
         },
         {
@@ -2789,7 +2789,7 @@
           "artifact": {
             "size": 1603134,
             "MD5": "a9330399f14295d90e4ec3b5bb93f81f",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/industrialforegoing-1.12.2-1.12.13-237.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/industrialforegoing-1.12.2-1.12.13-237.jar"
           }
         },
         {
@@ -2803,7 +2803,7 @@
           "artifact": {
             "size": 48759,
             "MD5": "647c2b5fa3fa9a067762a2be26852b58",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/industrialmeat-1.12-1.0.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/industrialmeat-1.12-1.0.2.jar"
           }
         },
         {
@@ -2817,7 +2817,7 @@
           "artifact": {
             "size": 956692,
             "MD5": "743179bc3a8f50751efbb019acc759a9",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/ironchest-1.12.2-7.0.72.847.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/ironchest-1.12.2-7.0.72.847.jar"
           }
         },
         {
@@ -2831,7 +2831,7 @@
           "artifact": {
             "size": 35964,
             "MD5": "253ed00b6569c1ee71883e28da628434",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/jehc-1.12.2-1.6.4.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/jehc-1.12.2-1.6.4.jar"
           }
         },
         {
@@ -2845,7 +2845,7 @@
           "artifact": {
             "size": 650541,
             "MD5": "cf78404df6bbacbf8903baaa24379949",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/jei_1.12.2-4.15.0.289.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/jei_1.12.2-4.15.0.289.jar"
           }
         },
         {
@@ -2859,7 +2859,7 @@
           "artifact": {
             "size": 6990968,
             "MD5": "8160b970fc14cff30dff2785bb9f964c",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/journeymap-1.12.2-5.7.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/journeymap-1.12.2-5.7.1.jar"
           }
         },
         {
@@ -2873,7 +2873,7 @@
           "artifact": {
             "size": 7091,
             "MD5": "5d9c83f6d734ce5c8b11a7184dc3507e",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/letsencryptcraft-1.10.2-1.2.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/letsencryptcraft-1.10.2-1.2.0.jar"
           }
         },
         {
@@ -2887,7 +2887,7 @@
           "artifact": {
             "size": 884837,
             "MD5": "32d8339a7a77e02e2e3583c38cfa96a6",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/llibrary-1.7.19-1.12.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/llibrary-1.7.19-1.12.2.jar"
           }
         },
         {
@@ -2901,7 +2901,7 @@
           "artifact": {
             "size": 1939783,
             "MD5": "ccc183a97d7b9688a49bf29b61343f49",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/malisiscore-1.12.2-6.5.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/malisiscore-1.12.2-6.5.1.jar"
           }
         },
         {
@@ -2915,7 +2915,7 @@
           "artifact": {
             "size": 1741669,
             "MD5": "6d0f129ff9a05f84add5b2209a6d0284",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/malisisdoors-1.12.2-7.3.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/malisisdoors-1.12.2-7.3.0.jar"
           }
         },
         {
@@ -2929,7 +2929,7 @@
           "artifact": {
             "size": 544856,
             "MD5": "45ac9983da9fd2bc7fe3446b9f4287c1",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/mcjtylib-1.12-3.5.4.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/mcjtylib-1.12-3.5.4.jar"
           }
         },
         {
@@ -2943,7 +2943,7 @@
           "artifact": {
             "size": 1516831,
             "MD5": "c1b3d7523544ffdfb91994864c31060b",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/minetogether-1.10.2-2.2.0-RC6.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/minetogether-1.10.2-2.2.0-RC6.jar"
           }
         },
         {
@@ -2957,7 +2957,7 @@
           "artifact": {
             "size": 884941,
             "MD5": "3e39a513a3d3ee172561be35725f65ca",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/missing_pieces-1.12.2-4.3.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/missing_pieces-1.12.2-4.3.0.jar"
           }
         },
         {
@@ -2971,7 +2971,7 @@
           "artifact": {
             "size": 12732,
             "MD5": "e36854d3c58af598ab3ce08d6cf0c760",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/modnametooltip_1.12.2-1.10.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/modnametooltip_1.12.2-1.10.1.jar"
           }
         },
         {
@@ -2985,7 +2985,7 @@
           "artifact": {
             "size": 447874,
             "MD5": "e1737d87f3506f7913dea5462395cbda",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/modtweaker-4.0.17.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/modtweaker-4.0.17.jar"
           }
         },
         {
@@ -2999,7 +2999,7 @@
           "artifact": {
             "size": 225142,
             "MD5": "96fc5aca484b41b4dbe08ea044082e1a",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/morechickens-1.12.2-3.1.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/morechickens-1.12.2-3.1.0.jar"
           }
         },
         {
@@ -3013,7 +3013,7 @@
           "artifact": {
             "size": 51284,
             "MD5": "7b5200f51245b61ef149f7a33860e930",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/moreoverlays-1.15.1-mc1.12.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/moreoverlays-1.15.1-mc1.12.2.jar"
           }
         },
         {
@@ -3027,7 +3027,7 @@
           "artifact": {
             "size": 344055,
             "MD5": "fd02f47f9d2844e4b5fe9bcc0e0f4268",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/mysticallib-1.12.2-1.3.7.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/mysticallib-1.12.2-1.3.7.jar"
           }
         },
         {
@@ -3041,7 +3041,7 @@
           "artifact": {
             "size": 4053,
             "MD5": "c4fa33c05a45db33c5dd0fa6bec82c61",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/noRecipeBook_v1.2.2formc1.12.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/noRecipeBook_v1.2.2formc1.12.2.jar"
           }
         },
         {
@@ -3055,7 +3055,7 @@
           "artifact": {
             "size": 165034,
             "MD5": "4fb650950c21a4ec41a98d883946127c",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/notenoughwands-1.12-1.8.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/notenoughwands-1.12-1.8.1.jar"
           }
         },
         {
@@ -3069,7 +3069,7 @@
           "artifact": {
             "size": 60516,
             "MD5": "2c088f01c979d9e255d2be99ca931234",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/oreberries-1.12.x-0.5.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/oreberries-1.12.x-0.5.0.jar"
           }
         },
         {
@@ -3083,7 +3083,7 @@
           "artifact": {
             "size": 373855,
             "MD5": "56a57b60eff38f98cf0228b802df2322",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/p455w0rdslib-1.12.2-2.2.156.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/p455w0rdslib-1.12.2-2.2.156.jar"
           }
         },
         {
@@ -3097,7 +3097,7 @@
           "artifact": {
             "size": 6611,
             "MD5": "37692b6f708b6ac24e384b95541ef827",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/packcrashinfo-1.0.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/packcrashinfo-1.0.1.jar"
           }
         },
         {
@@ -3111,7 +3111,7 @@
           "artifact": {
             "size": 87922,
             "MD5": "755df68af6ac1ff2071993bca45614b7",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/petrock-0.3.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/petrock-0.3.1.jar"
           }
         },
         {
@@ -3125,7 +3125,7 @@
           "artifact": {
             "size": 1082311,
             "MD5": "9892af4ac4f8ca4222138a245592227c",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/phosphor-1.12.2-0.2.6+build50-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/phosphor-1.12.2-0.2.6+build50-universal.jar"
           }
         },
         {
@@ -3139,7 +3139,7 @@
           "artifact": {
             "size": 546349,
             "MD5": "a5986fba10310c0e19a65b5eaf25522c",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/plustic-7.1.6.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/plustic-7.1.6.1.jar"
           }
         },
         {
@@ -3153,7 +3153,7 @@
           "artifact": {
             "size": 277358,
             "MD5": "41ec5331e53d7f5ba1391b7dc3f46076",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/quantumflux-1.12.2-2.0.18.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/quantumflux-1.12.2-2.0.18.jar"
           }
         },
         {
@@ -3167,7 +3167,7 @@
           "artifact": {
             "size": 283446,
             "MD5": "1c7fc41b27b2f18210272ba3aa90eb99",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/randompatches-1.12.2-1.21.0.3.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/randompatches-1.12.2-1.21.0.3.jar"
           }
         },
         {
@@ -3181,7 +3181,7 @@
           "artifact": {
             "size": 283260,
             "MD5": "5d466732a583f7f5b567706217a3a58c",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/randomtweaks-1.12.2-2.7.1.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/randomtweaks-1.12.2-2.7.1.0.jar"
           }
         },
         {
@@ -3195,7 +3195,7 @@
           "artifact": {
             "size": 30446,
             "MD5": "6024686e40df10b8739042ea2dce7f1a",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/reauth-3.6.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/reauth-3.6.0.jar"
           }
         },
         {
@@ -3209,7 +3209,7 @@
           "artifact": {
             "size": 67513,
             "MD5": "c52ef96f8865f6af7d7487a5fe858fd4",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/rflux-1.12-0.4.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/rflux-1.12-0.4.0.jar"
           }
         },
         {
@@ -3223,7 +3223,7 @@
           "artifact": {
             "size": 2895812,
             "MD5": "f05eea6ca1aea64e5742cb15d6dc79c1",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/rftools-1.12-7.72.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/rftools-1.12-7.72.jar"
           }
         },
         {
@@ -3237,7 +3237,7 @@
           "artifact": {
             "size": 600728,
             "MD5": "640e2b3241acde04684bd904829959ad",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/rftoolsctrl-1.12-2.0.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/rftoolsctrl-1.12-2.0.2.jar"
           }
         },
         {
@@ -3251,7 +3251,7 @@
           "artifact": {
             "size": 148083,
             "MD5": "afd405e1ba3857a4bff72c394c3540af",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/rftoolspower-1.12-1.2.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/rftoolspower-1.12-1.2.0.jar"
           }
         },
         {
@@ -3265,7 +3265,7 @@
           "artifact": {
             "size": 335854,
             "MD5": "f40eb2a747785efcae3929e8017989c0",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/roost-1.12.2-2.0.10.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/roost-1.12.2-2.0.10.jar"
           }
         },
         {
@@ -3279,7 +3279,7 @@
           "artifact": {
             "size": 421628,
             "MD5": "6eeaeb6c6d2998a7b29f176f452c2757",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/simplylight-1.12.2-0.8.7.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/simplylight-1.12.2-0.8.7.jar"
           }
         },
         {
@@ -3293,7 +3293,7 @@
           "artifact": {
             "size": 1160618,
             "MD5": "02c6264bdfa66c5895aed1d739109420",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/sonarcore-1.12.2-5.0.19-20.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/sonarcore-1.12.2-5.0.19-20.jar"
           }
         },
         {
@@ -3307,7 +3307,7 @@
           "artifact": {
             "size": 1140374,
             "MD5": "b0214b0a90243374c6bd89a023f2b26e",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/tesla-core-lib-1.12.2-1.0.15.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/tesla-core-lib-1.12.2-1.0.15.jar"
           }
         },
         {
@@ -3321,7 +3321,7 @@
           "artifact": {
             "size": 301893,
             "MD5": "63849a13a822b3b56308245eb8074a7e",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/theoneprobe-1.12-1.4.28.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/theoneprobe-1.12-1.4.28.jar"
           }
         },
         {
@@ -3335,7 +3335,7 @@
           "artifact": {
             "size": 1134227,
             "MD5": "edd094aba8bdaa2d42b79af68df17cc4",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/tinyprogressions-1.12.2-3.3.34-Release.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/tinyprogressions-1.12.2-3.3.34-Release.jar"
           }
         },
         {
@@ -3349,7 +3349,7 @@
           "artifact": {
             "size": 21627,
             "MD5": "d40065767501498ede69722e3fefaaf2",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/tmel-1.12.2-1.4.0.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/tmel-1.12.2-1.4.0.0.jar"
           }
         },
         {
@@ -3363,7 +3363,7 @@
           "artifact": {
             "size": 244342,
             "MD5": "52184028b340c7fc9c5894327f962d35",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/topaddons-1.12.2-1.11.0.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/topaddons-1.12.2-1.11.0.jar"
           }
         },
         {
@@ -3377,7 +3377,7 @@
           "artifact": {
             "size": 167004,
             "MD5": "b632ff75db5b738750c4c651b1d3707a",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/torchmaster_1.12.2-1.8.0.79.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/torchmaster_1.12.2-1.8.0.79.jar"
           }
         },
         {
@@ -3391,7 +3391,7 @@
           "artifact": {
             "size": 6427,
             "MD5": "6495ca12010de23d43243c66b85dc726",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/tramplestopper-1.12.2-1.2.0.5-universal.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/tramplestopper-1.12.2-1.2.0.5-universal.jar"
           }
         },
         {
@@ -3405,7 +3405,7 @@
           "artifact": {
             "size": 733580,
             "MD5": "e9bfd5d4274395d87c0bea745a37223a",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/valkyrielib-1.12.2-2.0.20.1.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/valkyrielib-1.12.2-2.0.20.1.jar"
           }
         },
         {
@@ -3419,7 +3419,7 @@
           "artifact": {
             "size": 101036,
             "MD5": "fc27fd777ed52d56e9cbf8880a610a4d",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/voidislandcontrol-1.5.3.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/voidislandcontrol-1.5.3.jar"
           }
         },
         {
@@ -3433,7 +3433,7 @@
           "artifact": {
             "size": 496307,
             "MD5": "13935bce3f6b827aa19567a81e5be38f",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/xnet-1.12-1.8.2.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/xnet-1.12-1.8.2.jar"
           }
         },
         {
@@ -3447,7 +3447,7 @@
           "artifact": {
             "size": 202790,
             "MD5": "c722d9453011b60eaa898c658e04020a",
-            "url": "https://baconetworks.com/servers/StoneBlock2-1.12.2/forgemods/zerocore-1.12-0.1.2.3.jar"
+            "url": "http://192.168.1.117/baco/servers/StoneBlock2-1.12.2/forgemods/zerocore-1.12-0.1.2.3.jar"
           }
         }
       ]
