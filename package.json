@@ -1,7 +1,7 @@
 {
-  "name": "helioslauncher",
+  "name": "bacolauncher",
   "version": "1.7.0",
-  "productName": "Helios Launcher",
+  "productName": "Baco Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Ignant/BacoNetworksLauncher.git"
   }
 }

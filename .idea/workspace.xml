@@ -25,7 +25,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ea3e393-9b1b-4a95-927b-55606f00d77d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/assets/distribution.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/distribution.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/backgrounds/0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/backgrounds/0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/backgrounds/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/backgrounds/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/backgrounds/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/backgrounds/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/backgrounds/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/backgrounds/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/backgrounds/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/configmanager.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/configmanager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/landing.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/app/landing.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +85,7 @@
       <updated>1589153774838</updated>
       <workItem from="1589153777852" duration="302000" />
       <workItem from="1589154087400" duration="1776000" />
-      <workItem from="1589170722995" duration="1715000" />
+      <workItem from="1589170722995" duration="2772000" />
     </task>
     <servers />
   </component>
@@ -113,5 +125,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589154034506" />
+    <state x="634" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1589173238507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="234" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589173238507" />
   </component>
 </project>
