@@ -538,7 +538,7 @@ exports.pullRemote = function(){
     }
     return new Promise((resolve, reject) => {
         const distroURL = 'http://launcher.baconetworks.com/launcher/distribution.json'
-        //const distroURL = 'https://gist.githubusercontent.com/dscalzi/53b1ba7a11d26a5c353f9d5ae484b71b/raw/'
+        //const distroURL = 'http://192.168.1.117/baco/distribution.json'
         const opts = {
             url: distroURL,
             timeout: 2500

@@ -25,9 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ea3e393-9b1b-4a95-927b-55606f00d77d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2020_4_40_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2020_4_40_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/js/distromanager.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/distromanager.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <workItem from="1589153777852" duration="302000" />
       <workItem from="1589154087400" duration="1776000" />
       <workItem from="1589170722995" duration="6351000" />
-      <workItem from="1589231407089" duration="2543000" />
+      <workItem from="1589231407089" duration="3862000" />
     </task>
     <servers />
   </component>
