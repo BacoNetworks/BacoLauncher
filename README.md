@@ -2,7 +2,6 @@
 
 <h1 align="center">Bacon Networks Launcher</h1>
 
-<em><h5 align="center">(formerly Electron Launcher)(formerly Helios Launcher)</h5></em>
 
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.<br>
 Currently you can use the launcher of your choice to load up:<br>
@@ -15,8 +14,8 @@ Currently you can use the launcher of your choice to load up:<br>
 
 Visit us at <a href="https://www.baconetworks.com/">Bacon Parties start HERE</a></p>
 
-![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
-![Screenshot 2](https://i.imgur.com/x3B34n1.png)
+![Screenshot 1](https://i.imgur.com/#)
+![Screenshot 2](https://i.imgur.com/#)
 
 ## Features
 
@@ -43,26 +42,23 @@ This is not an exhaustive list. Download and install the launcher to gauge all i
 
 #### Like the project? Leave a ⭐ star on the repository!
 
-## Downloads
-
-You can download from [GitHub Releases](https://github.com/dscalzi/HeliosLauncher/releases)
 
 #### Latest Release
 
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases/latest)
+
 
 #### Latest Pre-Release
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher/all.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases)
+
 
 **Supported Platforms**
 
-If you download from the [Releases](https://github.com/dscalzi/HeliosLauncher/releases) tab, select the installer for your system.
+If you download from the [Releases] tab, select the installer for your system.
 
 | Platform | File |
 | -------- | ---- |
-| Windows x64 | `helioslauncher-setup-VERSION.exe` |
-| macOS | `helioslauncher-VERSION.dmg` |
-| Linux x64 | `helioslauncher-VERSION-x86_64.AppImage` |
+| Windows x64 | `bacolauncher-setup-VERSION.exe` |
+| macOS | `bacolauncher-VERSION.dmg` |
+| Linux x64 | `bacolauncher-VERSION-x86_64.AppImage` |
 
 ## Console
 
@@ -91,15 +87,6 @@ If you want to export the console output, simply right click anywhere on the con
 
 ---
 
-**Clone and Install Dependencies**
-
-```console
-> git clone https://github.com/dscalzi/HeliosLauncher.git
-> cd HeliosLauncher
-> npm install
-```
-
----
 
 **Launch Application**
 
@@ -203,7 +190,7 @@ We reserve the right to update these conditions at any time, please check back p
 
 The best way to contact the developers is on Discord.
 
-[![discord](https://discordapp.com/api/guilds/211524927831015424/embed.png?style=banner3)][discord]
+[![discord] ][discord]
 
 ---
 
@@ -216,4 +203,4 @@ The best way to contact the developers is on Discord.
 [rendererprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Renderer Process'
 [chromedebugger]: https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome 'Debugger for Chrome'
 [discord]: https://discord.gg/zNWUXdt 'Discord'
-[wiki]: https://github.com/dscalzi/HeliosLauncher/wiki 'wiki'
+[wiki]: https://github.com/BacoNetworks/BacoLauncher/wiki 'wiki'
