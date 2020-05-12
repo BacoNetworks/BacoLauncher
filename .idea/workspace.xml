@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ea3e393-9b1b-4a95-927b-55606f00d77d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/js/distromanager.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/distromanager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/processbuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/processbuilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/scripts/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/scripts/landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/scripts/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/scripts/settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/scripts/uicore.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/scripts/uicore.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,7 @@
       <workItem from="1589154087400" duration="1776000" />
       <workItem from="1589170722995" duration="6351000" />
       <workItem from="1589231407089" duration="9473000" />
-      <workItem from="1589307491018" duration="2163000" />
+      <workItem from="1589307491018" duration="4601000" />
     </task>
     <servers />
   </component>
