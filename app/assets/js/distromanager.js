@@ -537,8 +537,8 @@ exports.pullRemote = function(){
         return exports.pullLocal()
     }
     return new Promise((resolve, reject) => {
-        const distroURL = 'http://launcher.baconetworks.com/launcher/distribution.json'
-        //const distroURL = 'http://192.168.1.117/baco/distribution.json'
+        //const distroURL = 'http://launcher.baconetworks.com/launcher/distribution.json'
+        const distroURL = 'http://192.168.1.117/baco/distribution.json'
         const opts = {
             url: distroURL,
             timeout: 2500

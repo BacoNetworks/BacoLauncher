@@ -15,17 +15,15 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ea3e393-9b1b-4a95-927b-55606f00d77d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/distromanager.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/distromanager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/settings.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/app/settings.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +38,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bjmFiXAL8eitlJl0wWvmWNSg8y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -74,7 +76,7 @@
       <workItem from="1589153777852" duration="302000" />
       <workItem from="1589154087400" duration="1776000" />
       <workItem from="1589170722995" duration="6351000" />
-      <workItem from="1589231407089" duration="3862000" />
+      <workItem from="1589231407089" duration="6123000" />
     </task>
     <servers />
   </component>
@@ -93,23 +95,26 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1860" height="276" key="GridCell.Tab.0.bottom" timestamp="1589231431927">
+    <state width="1860" height="276" key="GridCell.Tab.0.bottom" timestamp="1589252880478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589231431927" />
-    <state width="1860" height="276" key="GridCell.Tab.0.center" timestamp="1589231431927">
+    <state width="1860" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589252880478" />
+    <state width="1860" height="276" key="GridCell.Tab.0.center" timestamp="1589252880478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589231431927" />
-    <state width="1860" height="276" key="GridCell.Tab.0.left" timestamp="1589231431927">
+    <state width="1860" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589252880478" />
+    <state width="1860" height="276" key="GridCell.Tab.0.left" timestamp="1589252880478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589231431927" />
-    <state width="1860" height="276" key="GridCell.Tab.0.right" timestamp="1589231431927">
+    <state width="1860" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589252880478" />
+    <state width="1860" height="276" key="GridCell.Tab.0.right" timestamp="1589252880478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589231431927" />
+    <state width="1860" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589252880478" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1589154034506">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

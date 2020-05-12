@@ -1,13 +1,13 @@
 {
   "name": "bacolauncher",
-  "version": "1.7.0",
+  "version": "1.0.0",
   "productName": "Baco Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "IganntGaming (https://github.com/ignant/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/BacoNetworks/BacoLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/BacoNetworks/BacoLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ignant/BacoNetworksLauncher.git"
+    "url": "git+https://github.com/BacoNetworks/BacoLauncher.git"
   }
 }
