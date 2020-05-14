@@ -21,7 +21,7 @@ builder.build({
         appId: 'BacoLauncher',
         productName: 'BacoLauncher',
         artifactName: '${productName}.setup-${version}.${ext}',
-        copyright: 'Copyright © 2018-2020 BacoNetworks',
+        copyright: 'Copyright © 2015-2020 BacoNetworks',
         directories: {
             buildResources: 'build',
             output: 'dist'
