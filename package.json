@@ -1,9 +1,9 @@
 {
   "name": "bacolauncher",
-  "version": "1.0.1",
+  "version": "1.0.1-alpha",
   "productName": "BacoLauncher",
   "description": "Modded Minecraft Launcher",
-  "author": "IgantGaming (https://github.com/ignant/)",
+  "author": "IgantGaming (https://github.com/BacoNetworks)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/BacoNetworks/BacoLauncher",
   "bugs": {
