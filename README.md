@@ -4,7 +4,8 @@
 
 [<p align="center"><img src="https://travis-ci.org/BacoNetworks/BacoLauncher.svg?branch=master">](https://travis-ci.org/BacoNetworks/BacoLauncher) <img src="https://img.shields.io/github/downloads/BacoNetworks/BacoLauncher/total.svg?style=for-the-badge" alt="downloads"></p>
 
-<p>#### Latest Release
+<p>
+#### Latest Release
 
 [![](https://img.shields.io/github/release/BacoNetworks/BacoLauncher.svg?style=flat-square)](https://github.com/BacoNetworks/BacoLauncher/releases/latest)
 
