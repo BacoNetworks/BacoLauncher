@@ -2,7 +2,14 @@
 
 <h1 align="center">Bacon Networks Launcher</h1>
 
-[<p align="center"><img src="https://img.shields.io/BacoNetworks/BacoLauncher.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/BacoNetworks/BacoLauncher) [<img src="https://img.shields.io/github/downloads/BacoNetworks/BacoLauncher/total.svg?style=for-the-badge" alt="downloads">]</p>
+[<p align="center"><img src="https://travis-ci.org/BacoNetworks/BacoLauncher.svg?branch=master">](https://travis-ci.org/BacoNetworks/BacoLauncher) <img src="https://img.shields.io/github/downloads/BacoNetworks/BacoLauncher/total.svg?style=for-the-badge" alt="downloads"></p>
+
+#### Latest Release
+
+[![](https://img.shields.io/github/release/BacoNetworks/BacoLauncher.svg?style=flat-square)](https://github.com/BacoNetworks/BacoLauncher/releases/latest)
+
+#### Latest Pre-Release
+[![](https://img.shields.io/github/release/BacoNetworks/BacoLauncher/all.svg?style=flat-square)](https://github.com/BacoNetworks/BacoLauncher/releases)
 
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.<br>
 Currently you can use the launcher of your choice to load up:<br>
@@ -41,15 +48,6 @@ This is not an exhaustive list. Download and install the launcher to gauge all i
 
 #### Need Help? [Check the wiki.][wiki]
 
-#### Like the project? Leave a ⭐ star on the repository!
-
-
-#### Latest Release
-
-
-
-#### Latest Pre-Release
-
 
 **Supported Platforms**
 
@@ -58,7 +56,7 @@ If you download from the [Releases] tab, select the installer for your system.
 | Platform | File |
 | -------- | ---- |
 | Windows x64 | `bacolauncher-setup-VERSION.exe` |
-| macOS | `bacolauncher-VERSION.dmg` |
+| macOS | `bacolauncher-VERSION.dmg` | "Not yet working"
 | Linux x64 | `bacolauncher-VERSION-x86_64.AppImage` |
 
 ## Console
