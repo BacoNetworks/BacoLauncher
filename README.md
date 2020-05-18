@@ -2,7 +2,7 @@
 
 <h1 align="center">Bacon Networks Launcher</h1>
 
-[<p align="center"><img src="https://travis-ci.org/BacoNetworks/BacoLauncher.svg?branch=master">](https://travis-ci.org/BacoNetworks/BacoLauncher) [<img src="https://img.shields.io/github/downloads/BacoNetworks/BacoLauncher/total.svg?style=for-the-badge" alt="downloads">]</p>
+[<p align="center"><img src="https://travis-ci.org/BacoNetworks/BacoLauncher.svg?branch=master">](https://travis-ci.org/BacoNetworks/BacoLauncher) <img src="https://img.shields.io/github/downloads/BacoNetworks/BacoLauncher/total.svg?style=for-the-badge" alt="downloads"></p>
 
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.<br>
 Currently you can use the launcher of your choice to load up:<br>
