@@ -27,7 +27,7 @@
   "dependencies": {
     "adm-zip": "^0.4.14",
     "async": "^3.2.0",
-    "discord-rpc": "3.1.1",
+    "discord-rpc": "^3.1.1",
     "ejs": "^3.1.2",
     "ejs-electron": "^2.0.3",
     "electron-updater": "^4.3.1",
@@ -37,7 +37,6 @@
     "request": "^2.88.2",
     "semver": "^7.3.2",
     "tar-fs": "^2.1.0",
-    "travis": "^0.1.1",
     "winreg": "^1.2.4"
   },
   "devDependencies": {
@@ -48,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BacoNetworks/BacoLauncher.git" 
+    "url": "git+https://github.com/BacoNetworks/BacoLauncher.git"
   }
 }
