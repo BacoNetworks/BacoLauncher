@@ -48,7 +48,7 @@ if(!isDev){
                 loggerAutoUpdaterSuccess.log('New update available', info.version)
                 
                 if(process.platform === 'darwin'){
-                    info.darwindownload = `https://github.com/BacoNetworks/BacoLauncher/releases/download/v${info.version}/BacoLauncher-${info.version}.dmg`
+                    info.darwindownload = `https://github.com/BacoNetworks/BacoLauncher/releases/download/v${info.version}/BacoLauncher-setup-${info.version}.dmg`
                     showUpdateUI(info)
                 }
                 

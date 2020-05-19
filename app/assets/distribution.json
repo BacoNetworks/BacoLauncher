@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://www.baconetworks.com/api/rss.php",
+  "rss": "https://www.baconetworks.com/api/rss.php?preset_id=32260566",
   "servers": [
     {
       "id": "BacoNetworks-1.12.2",
