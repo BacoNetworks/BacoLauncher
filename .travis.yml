@@ -53,7 +53,7 @@ before_deploy:
   -
 deploy:
   provider: releases
-  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  api_token: $GITHUB_TOKEN
   file:
     - dist/BacoLauncher.setup-1.0.3-alpha.dmg
     - dist/latest-mac.yml
@@ -63,4 +63,5 @@ deploy:
     - dist/BacoLauncher.setup-1.0.3-alpha.exe
   skip_cleanup: true
   draft: true
+  overwrite: true
 
