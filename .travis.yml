@@ -46,7 +46,7 @@ branches:
 
 deploy:
   provider: releases
-  github_token: $GITHUB_OAUTH_TOKEN  # Set in the settings page of your repository, as a secure variable
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   file_glob: true
   file:
     - dist/BacoLauncher.setup-1.0.3-alpha.dmg
