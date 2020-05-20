@@ -1,0 +1,7 @@
+/node_modules/
+/.vs/
+/.vscode/
+/target/
+/logs/
+/dist/
+.idea/workspace.xml

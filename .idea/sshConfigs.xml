@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="51.79.54.129" id="e056ff5a-d358-44e1-a9c4-a9ed8de13f93" keyPath="C:\Users\marke\Downloads\bacobot.ppk" port="22" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</project>

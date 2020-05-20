@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6441da15-32c6-434a-bfd5-097b18105b67" name="BacoNetworks" url="http://launcher.baconetworks.com">
+        <fileTransfer rootFolder="/var/www/launcher.baconetworks.com/launcher" accessType="SFTP" host="51.79.54.129" port="22" sshConfigId="e056ff5a-d358-44e1-a9c4-a9ed8de13f93" sshConfig="root@51.79.54.129:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
