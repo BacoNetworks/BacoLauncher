@@ -48,8 +48,13 @@ deploy:
   provider: releases
   github_token: $GITHUB_OAUTH_TOKEN  # Set in the settings page of your repository, as a secure variable
   file_glob: true
-  file: dist/*
+  file:
+    - dist/BacoLauncher.setup-1.0.3-alpha.dmg
+    - dist/latest-mac.yml
+    - dist/BacoLauncher.setup-1.0.3-alpha.AppImage
+    - dist/latest-linux.yml
+    - dist/latest.yml
+    - dist/BacoLauncher.setup-1.0.3-alpha.exe
   skip_cleanup: true
   draft: true
-  on:
-    tags: master
+  on: BacoNetworks/BacoLauncher
