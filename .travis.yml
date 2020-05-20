@@ -53,7 +53,9 @@ before_deploy:
   -
 deploy:
   provider: releases
-  api_token: $GITHUB_TOKEN
+  # ⋮
+  edge: true
+  api_key: $GITHUB_TOKEN
   file:
     - dist/BacoLauncher.setup-1.0.3-alpha.dmg
     - dist/latest-mac.yml
