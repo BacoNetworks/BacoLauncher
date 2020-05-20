@@ -45,9 +45,11 @@ branches:
     - "/^v\\d+\\.\\d+\\.\\d+$/"
 
 deploy:
-  provider: pages
-  skip_cleanup: true
+  provider: releases
   github_token: $GITHUB_OAUTH_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep_history: true
+  file_glob: true
+  file: dist/*
+  skip_cleanup: true
+  draft:true: true
   on:
-  branch: master
+    tags: master
