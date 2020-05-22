@@ -50,24 +50,17 @@ before_deploy:
   - git config --local user.email "marketmansean@gmail.com"
   - export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)}
   - git tag $TRAVIS_TAG
-  - export RELEASE_EXE_FILE=$(ls *.exe)
-  - echo "deploying $RELEASE_EXE_FILE to GitHub releases"
-  - export RELEASE_EXE_FILE=$(ls *.blockmap)
-  - echo "deploying $RELEASE_BLOCK_FILE to GitHub releases"
-  - export RELEASE_APPIMG_FILE=$(ls *.AppImage)
-  - echo "deploying $RELEASE_APPIMG_FILE to GitHub releases"
-  - export RELEASE_DMG_FILE=$(ls *.dmg)
-  - echo "deploying $RELEASE_DMG_FILE to GitHub releases"
+
 deploy:
   provider: releases
   # ⋮
   edge: true
   api_key: $GITHUB_TOKEN
   file:
-    - "${RELEASE_EXE_FILE}"
-    - "${RELEASE_BLOCK_FILE}"
-    - "${RELEASE_APPIMG_FILE}"
-    - "${RELEASE_DMG_FILE}"
+    - dist/BacoLauncher.setup-1.0.6-alpha.exe
+    - dist/BacoLauncher.setup-1.0.6-alpha.AppImage
+    - dist/BacoLauncher.setup-1.0.6-alpha.dmg
+    - dist/BacoLauncher.setup-1.0.6-alpha.exe.blockmap
     - dist/latest-mac.yml
     - dist/latest-linux.yml
     - dist/latest.yml
