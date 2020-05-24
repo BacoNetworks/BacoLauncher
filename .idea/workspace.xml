@@ -21,7 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="2ea3e393-9b1b-4a95-927b-55606f00d77d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/backgrounds/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/backgrounds/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/backgrounds/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/backgrounds/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/backgrounds/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/backgrounds/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/configmanager.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/configmanager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/processbuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/processbuilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/settings.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/app/settings.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +57,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Nebula" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -85,7 +90,16 @@
       <workItem from="1589480329740" duration="1750000" />
       <workItem from="1589765189505" duration="777000" />
       <workItem from="1589776795064" duration="1769000" />
-      <workItem from="1589778930608" duration="6072000" />
+      <workItem from="1589778930608" duration="17211000" />
+      <workItem from="1589954248381" duration="3254000" />
+      <workItem from="1590018862699" duration="1147000" />
+      <workItem from="1590071396944" duration="8841000" />
+      <workItem from="1590083580676" duration="7432000" />
+      <workItem from="1590207511189" duration="1592000" />
+      <workItem from="1590212179535" duration="2058000" />
+      <workItem from="1590256519486" duration="5007000" />
+      <workItem from="1590283015816" duration="3948000" />
+      <workItem from="1590344406059" duration="4651000" />
     </task>
     <servers />
   </component>
@@ -120,26 +134,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="701" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589409547746" />
-    <state x="852" y="282" key="FileChooserDialogImpl" timestamp="1589595751778">
+    <state x="852" y="282" key="FileChooserDialogImpl" timestamp="1590353166599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="852" y="282" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589595751778" />
-    <state width="1860" height="276" key="GridCell.Tab.0.bottom" timestamp="1589426326654">
+    <state x="852" y="282" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590353166599" />
+    <state width="1860" height="276" key="GridCell.Tab.0.bottom" timestamp="1590115081874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589426326654" />
-    <state width="1860" height="276" key="GridCell.Tab.0.center" timestamp="1589426326653">
+    <state width="1860" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590115081874" />
+    <state width="1860" height="276" key="GridCell.Tab.0.center" timestamp="1590115081874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589426326653" />
-    <state width="1860" height="276" key="GridCell.Tab.0.left" timestamp="1589426326653">
+    <state width="1860" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590115081874" />
+    <state width="1860" height="276" key="GridCell.Tab.0.left" timestamp="1590115081873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589426326653" />
-    <state width="1860" height="276" key="GridCell.Tab.0.right" timestamp="1589426326654">
+    <state width="1860" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590115081873" />
+    <state width="1860" height="276" key="GridCell.Tab.0.right" timestamp="1590115081874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589426326654" />
+    <state width="1860" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590115081874" />
     <state x="461" y="172" width="1223" height="710" key="SettingsEditor" timestamp="1589310031448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -77,26 +77,27 @@ const DEFAULT_CONFIG = {
             executable: null,
             jvmOptions: [
                 //'-d64',
-                //'-XX:+AggressiveOpts',
-                //'-XX:ParallelGCThreads=3',
-                //'-XX:+UseConcMarkSweepGC',
-                //'-XX:+UnlockExperimentalVMOptions',
-                //'-XX:+UseParNewGC',
-                //'-XX:+ExplicitGCInvokesConcurrent',
-                //'-XX:MaxGCPauseMillis=10',
-                //'-XX:GCPauseIntervalMillis=50',
-                //'-XX:+UseFastAccessorMethods',
-                //'-XX:+OptimizeStringConcat',
-                //'-XX:NewSize=128m',
-                //'-XX:+UseAdaptiveGCBoundary',
-                //'-XX:NewRatio=3',
-                //'-Dfml.readTimeout=180-Dfml.ignoreInvalidMinecraftCertificates=true'
+                '-XX:+AggressiveOpts',
+                '-XX:ParallelGCThreads=3',
+                '-XX:+UseConcMarkSweepGC',
+                '-XX:+UnlockExperimentalVMOptions',
+                '-XX:+UseParNewGC',
+                '-XX:+ExplicitGCInvokesConcurrent',
+                '-XX:MaxGCPauseMillis=10',
+                '-XX:GCPauseIntervalMillis=50',
+                '-XX:+UseFastAccessorMethods',
+                '-XX:+OptimizeStringConcat',
+                '-XX:NewSize=128m',
+                '-XX:+UseAdaptiveGCBoundary',
+                '-XX:NewRatio=3',
+                '-Dfml.readTimeout=180',
+                '-Dfml.ignoreInvalidMinecraftCertificates=true'
 
                 //Defaults
-                '-XX:+UseConcMarkSweepGC',
-                '-XX:+CMSIncrementalMode',
-                '-XX:-UseAdaptiveSizePolicy',
-                '-Xmn128M'
+                //'-XX:+UseConcMarkSweepGC',
+                //'-XX:+CMSIncrementalMode',
+                //'-XX:-UseAdaptiveSizePolicy',
+                //'-Xmn128M'
 
             ],
         },
