@@ -45,7 +45,11 @@ body, button {
     font-family: 'Avenir Book';
     color: white;
 }
-
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 /*body {
     background: url('./../images/backgrounds/0.jpg') no-repeat center center fixed;
     background-size: cover;
@@ -2997,6 +3001,18 @@ input:checked + .toggleSwitchSlider:before {
     text-shadow: 0px 0px 0px #bebcbb;
 }
 
+.play_label {
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-shadow: 0px 0px 0px #bebcbb;
+}
+.server_select_label {
+    font-size: 8px;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
 /* Divider used on the bottom of the landing view. */
 .bot_divider {
     height: 25px;
@@ -3005,7 +3021,13 @@ input:checked + .toggleSwitchSlider:before {
     margin-left: 20px;
     margin-right: 20px;
 }
-
+.play_divider {
+    height: 46px;
+    width: 2px;
+    background: rgba(107, 105, 105, 0.7);
+    margin-left: 20px;
+    margin-right: 20px;
+}
 /* * *
 * Landing View (Bottom Styles) | Left Content
 * * */
