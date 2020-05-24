@@ -64,7 +64,6 @@ deploy:
     - dist/latest-mac.yml
     - dist/latest-linux.yml
     - dist/latest.yml
-  skip_cleanup: true
   draft: true
   overwrite: false
 
