@@ -1,13 +1,13 @@
 {
   "name": "bacolauncher",
-  "version": "v1.0.0",
-  "productName": "BacoDevLauncher",
+  "version": "v1.0.9",
+  "productName": "BacoLauncher",
   "description": "Modded Minecraft Launcher",
   "author": "IgantGaming (https://github.com/BacoNetworks)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/BacoNetworks/DevLauncher",
+  "homepage": "https://github.com/BacoNetworks/BacoLauncher",
   "bugs": {
-    "url": "https://github.com/BacoNetworks/DevLauncher/issues"
+    "url": "https://github.com/BacoNetworks/BacoLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -41,12 +41,12 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.2",
-    "electron": "^9.0.4",
+    "electron": "^9.0.3",
     "electron-builder": "^22.7.0",
     "eslint": "^7.2.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BacoNetworks/DevLauncher.git"
+    "url": "git+https://github.com/BacoNetworks/BacoLauncher.git"
   }
 }
