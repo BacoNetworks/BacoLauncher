@@ -272,19 +272,6 @@ class ProcessBuilder {
         
     }
 
-    _processAutoConnectArg(args){
-        if(ConfigManager.getAutoConnect() && this.server.isAutoConnect()){
-            const serverURL = new URL('my://' + this.server.getAddress())
-            args.push('--server')
-            args.push(serverURL.hostname)
-            if(serverURL.port){
-                args.push('--port')
-                args.push(serverURL.port)
-            }
-        }
-    }
-
-
     /**
      * Construct the argument array that will be passed to the JVM process.
      * 
@@ -318,7 +305,7 @@ class ProcessBuilder {
 
         // Java Arguments
         if(process.platform === 'darwin'){
-            args.push('-Xdock:name=BacoDevLauncher')
+            args.push('-Xdock:name=BacoLauncher')
             args.push('-Xdock:icon=' + path.join(__dirname, '..', 'images', 'minecraft.icns'))
         }
         args.push('-Xmx' + ConfigManager.getMaxRAM())
@@ -352,7 +339,7 @@ class ProcessBuilder {
         // JVM Arguments First
         let args = this.versionData.arguments.jvm
 
-        //args.push('-Dlog4j.configurationFile=D:\\BacoDevLauncher\\game\\common\\assets\\log_configs\\client-1.12.xml')
+        //args.push('-Dlog4j.configurationFile=D:\\WesterosCraft\\game\\common\\assets\\log_configs\\client-1.12.xml')
 
         // Java Arguments
         if(process.platform === 'darwin'){
@@ -474,21 +461,6 @@ class ProcessBuilder {
             }
         }
 
-        // Autoconnect
-        let isAutoconnectBroken
-        try {
-            isAutoconnectBroken = Util.isAutoconnectBroken(this.forgeData.id.split('-')[2])
-        } catch(err) {
-            logger.error('Forge version format changed.. assuming autoconnect works.')
-        }
-
-        if(isAutoconnectBroken) {
-            logger.error('Server autoconnect disabled on Forge 1.15.2 for builds earlier than 31.2.15 due to OpenGL Stack Overflow issue.')
-            logger.error('Please upgrade your Forge version to at least 31.2.15!')
-        } else {
-            this._processAutoConnectArg(args)
-        }
-
         // Forge Specific Arguments
         args = args.concat(this.forgeData.arguments.game)
 
@@ -554,7 +526,15 @@ class ProcessBuilder {
         }
 
         // Autoconnect to the selected server.
-        this._processAutoConnectArg(mcArgs)
+        if(ConfigManager.getAutoConnect() && this.server.isAutoConnect()){
+            const serverURL = new URL('my://' + this.server.getAddress())
+            mcArgs.push('--server')
+            mcArgs.push(serverURL.hostname)
+            if(serverURL.port){
+                mcArgs.push('--port')
+                mcArgs.push(serverURL.port)
+            }
+        }
 
         // Prepare game resolution
         if(ConfigManager.getFullscreen()){
