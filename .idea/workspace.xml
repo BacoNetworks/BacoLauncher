@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ea3e393-9b1b-4a95-927b-55606f00d77d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/distribution.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/distribution.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/assetguard.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/assetguard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/processbuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/processbuilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/scripts/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/scripts/landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +67,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marke\Documents\GitHub\BacoLauncher\docs" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
