@@ -377,7 +377,7 @@ class ProcessBuilder {
                         // This should be fine for a while.
                         if(rule.features.has_custom_resolution != null && rule.features.has_custom_resolution === true){
                             if(ConfigManager.getFullscreen()){
-                                args[i].value = [
+                                rule.values = [
                                     '--fullscreen',
                                     'true'
                                 ]

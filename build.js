@@ -18,8 +18,8 @@ function getCurrentPlatform(){
 builder.build({
     targets: (process.argv[2] != null && Platform[process.argv[2]] != null ? Platform[process.argv[2]] : getCurrentPlatform()).createTarget(),
     config: {
-        appId: 'BacoDevLauncher',
-        productName: 'BacoDevLauncher',
+        appId: 'BacoLauncher',
+        productName: 'BacoLauncher',
         artifactName: '${productName}.setup-${version}.${ext}',
         copyright: 'Copyright © 2015-2020 BacoNetworks',
         directories: {
@@ -46,10 +46,10 @@ builder.build({
         },
         linux: {
             target: 'AppImage',
-            maintainer: 'IgnantGaming',
+            maintainer: 'Ignant',
             vendor: 'BacoNetworks',
             synopsis: 'Modded Minecraft Launcher',
-            description: 'Custom launcher designed for BacoDevs which allows users to join our modded servers. All mods, configurations, and updates are handled automatically.',
+            description: 'Custom launcher designed for BacoNetworks which allows users to join our modded servers. All mods, configurations, and updates are handled automatically.',
             category: 'Game'
         },
         compression: 'maximum',
