@@ -57,10 +57,10 @@ deploy:
   edge: true
   api_key: $GITHUB_TOKEN
   file:
-    - dist/BacoLauncher.setup-1.0.9.exe
-    - dist/BacoLauncher.setup-1.0.9.AppImage
-    - dist/BacoLauncher.setup-1.0.9.dmg
-    - dist/BacoLauncher.setup-1.0.9.exe.blockmap
+    - dist/BacoLauncher.setup-1.1.0.exe
+    - dist/BacoLauncher.setup-1.1.0.AppImage
+    - dist/BacoLauncher.setup-1.1.0.dmg
+    - dist/BacoLauncher.setup-1.1.0.exe.blockmap
     - dist/latest-mac.yml
     - dist/latest-linux.yml
     - dist/latest.yml
