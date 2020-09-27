@@ -27,13 +27,13 @@
     </style>
 </head>
 <body bkid="<%=bkid%>">
-    <% include 'frame' %>
-    <div id="main">
-        <% include 'welcome' %>
-        <% include 'login' %>
-        <% include 'settings' %>
-        <% include 'landing' %>
-    </div>
+<%- include('frame') %>
+<div id="main">
+    <%- include('welcome') %>
+    <%- include('login') %>
+    <%- include('settings') %>
+    <%- include('landing') %>
+</div>
     <% include 'overlay' %>
     <div id="loadingContainer">
         <div id="loadingContent">
