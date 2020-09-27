@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ea3e393-9b1b-4a95-927b-55606f00d77d" name="Default Changelist" comment="Electron 10 update&#10;Mac Updates&#10;Release if hangups.">
+    <list default="true" id="2ea3e393-9b1b-4a95-927b-55606f00d77d" name="Default Changelist" comment="Electron 10 update&#10;Mac Updates&#10;Release if hangups.&#10;v1.2.0 Release">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,19 +69,6 @@
       <recent name="C:\Users\marke\Documents\GitHub\BacoLauncher\docs" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -120,7 +106,8 @@
       <workItem from="1599004026845" duration="763000" />
       <workItem from="1599004864748" duration="767000" />
       <workItem from="1601081692978" duration="27000" />
-      <workItem from="1601176424340" duration="6363000" />
+      <workItem from="1601176424340" duration="7049000" />
+      <workItem from="1601245642634" duration="430000" />
     </task>
     <task id="LOCAL-00001" summary="Electron 10 update&#10;Mac Updates&#10;Release if hangups.">
       <created>1601179963846</created>
@@ -129,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601179963846</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Electron 10 update&#10;Mac Updates&#10;Release if hangups.&#10;v1.2.0 Release">
+      <created>1601224623350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601224623350</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Electron 10 update&#10;Mac Updates&#10;Release if hangups." />
-    <option name="LAST_COMMIT_MESSAGE" value="Electron 10 update&#10;Mac Updates&#10;Release if hangups." />
+    <MESSAGE value="Electron 10 update&#10;Mac Updates&#10;Release if hangups.&#10;v1.2.0 Release" />
+    <option name="LAST_COMMIT_MESSAGE" value="Electron 10 update&#10;Mac Updates&#10;Release if hangups.&#10;v1.2.0 Release" />
   </component>
   <component name="WindowStateProjectService">
     <state x="712" y="344" key="#Notifications" timestamp="1601176505401">
@@ -165,38 +160,39 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="281" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601081717681" />
-    <state width="1860" height="275" key="GridCell.Tab.0.bottom" timestamp="1601182876286">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1860" height="275" key="GridCell.Tab.0.bottom" timestamp="1601228045202">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601179286279" />
+    <state width="1860" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601228045202" />
     <state width="1860" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601182876286" />
-    <state width="1860" height="275" key="GridCell.Tab.0.center" timestamp="1601182876285">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1860" height="275" key="GridCell.Tab.0.center" timestamp="1601228045202">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601179286278" />
+    <state width="1860" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601228045202" />
     <state width="1860" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601182876285" />
-    <state width="1860" height="275" key="GridCell.Tab.0.left" timestamp="1601182876285">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1860" height="275" key="GridCell.Tab.0.left" timestamp="1601228045202">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601179286278" />
+    <state width="1860" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601228045202" />
     <state width="1860" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601182876285" />
-    <state width="1860" height="275" key="GridCell.Tab.0.right" timestamp="1601182876286">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1860" height="275" key="GridCell.Tab.0.right" timestamp="1601228045202">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601179286279" />
+    <state width="1860" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601228045202" />
     <state width="1860" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601182876286" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1601176525514">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601176525514" />
-    <state x="2497" y="272" key="Vcs.Push.Dialog.v2" timestamp="1601179975518">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2497" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601179975518" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601176494144">
+    <state x="577" y="272" key="Vcs.Push.Dialog.v2" timestamp="1601224627799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601176494144" />
+    <state x="577" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601224627799" />
+    <state x="2497" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601179975518" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601224605954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601224605954" />
     <state x="342" y="140" key="new project wizard" timestamp="1601081703942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
