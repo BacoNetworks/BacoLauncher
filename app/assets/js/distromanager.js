@@ -471,9 +471,6 @@ class DistroIndex {
     /**
      * @returns {string} The URL to the news RSS feed.
      */
-    getRSS(){
-        return this.rss
-    }
 
     /**
      * @returns {Array.<Server>} An array of declared server configurations.
@@ -551,17 +548,21 @@ exports.pullRemote = function(){
                     data = DistroIndex.fromJSON(JSON.parse(body))
                 } catch (e) {
                     reject(e)
+                    return
                 }
 
                 fs.writeFile(distroDest, body, 'utf-8', (err) => {
                     if(!err){
                         resolve(data)
+                        return
                     } else {
                         reject(err)
+                        return
                     }
                 })
             } else {
                 reject(error)
+                return
             }
         })
     })
@@ -576,8 +577,10 @@ exports.pullLocal = function(){
             if(!err){
                 data = DistroIndex.fromJSON(JSON.parse(d))
                 resolve(data)
+                return
             } else {
                 reject(err)
+                return
             }
         })
     })

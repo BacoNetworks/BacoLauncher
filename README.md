@@ -181,6 +181,8 @@ You may use this software in your own project so long as the following condition
 
 We reserve the right to update these conditions at any time, please check back periodically.
 
+Commit "17e36fa"
+
 ---
 
 ## Resources

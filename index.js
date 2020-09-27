@@ -17,7 +17,7 @@ function initAutoUpdater(event, data) {
         // Defaults to true if application version contains prerelease components (e.g. 0.12.1-alpha.1)
         // autoUpdater.allowPrerelease = true
     }
-    
+
     if(isDev){
         autoUpdater.autoInstallOnAppQuit = false
         autoUpdater.updateConfigPath = path.join(__dirname, 'dev-app-update.yml')
@@ -39,7 +39,7 @@ function initAutoUpdater(event, data) {
     })
     autoUpdater.on('error', (err) => {
         event.sender.send('autoUpdateNotification', 'realerror', err)
-    }) 
+    })
 }
 
 // Open channel to listen for update actions.
@@ -97,12 +97,14 @@ function createWindow() {
     win = new BrowserWindow({
         width: 980,
         height: 552,
-        icon: getPlatformIcon('ThDmbJD'),
+        icon: getPlatformIcon('SealCircle'),
         frame: false,
         webPreferences: {
             preload: path.join(__dirname, 'app', 'assets', 'js', 'preloader.js'),
             nodeIntegration: true,
-            contextIsolation: false
+            contextIsolation: false,
+            enableRemoteModule: true,
+            worldSafeExecuteJavaScript: true
         },
         backgroundColor: '#171614'
     })
@@ -129,7 +131,7 @@ function createWindow() {
 }
 
 function createMenu() {
-    
+
     if(process.platform === 'darwin') {
 
         // Extend default included application menu to continue support for quit keyboard shortcut

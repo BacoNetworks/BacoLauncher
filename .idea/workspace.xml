@@ -20,7 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ea3e393-9b1b-4a95-927b-55606f00d77d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/assetexec.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/assetexec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/assetguard.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/assetguard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/distromanager.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/distromanager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/processbuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/processbuilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/scripts/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/scripts/landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/scripts/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/js/scripts/settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,14 +64,14 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Nebula" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.46638656" />
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
@@ -68,6 +80,7 @@
       <recent name="C:\Users\marke\Documents\GitHub\BacoLauncher\docs" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -100,11 +113,16 @@
       <workItem from="1590256519486" duration="5007000" />
       <workItem from="1590283015816" duration="3948000" />
       <workItem from="1590344406059" duration="4651000" />
+      <workItem from="1596938587328" duration="34000" />
+      <workItem from="1599004026845" duration="763000" />
+      <workItem from="1599004864748" duration="767000" />
+      <workItem from="1601081692978" duration="27000" />
+      <workItem from="1601176424340" duration="3215000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -122,61 +140,49 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="648" y="172" key="#SSH_Configurations" timestamp="1589309951463">
+    <state x="712" y="344" key="#Notifications" timestamp="1601176505401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="648" y="172" key="#SSH_Configurations/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589309951463" />
-    <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589309641758">
+    <state x="712" y="344" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601176505401" />
+    <state x="663" y="287" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599004497998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589309641758" />
-    <state x="701" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589409547746">
+    <state x="663" y="287" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599004497998" />
+    <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1601081717681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="701" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589409547746" />
-    <state x="852" y="282" key="FileChooserDialogImpl" timestamp="1590353166599">
+    <state x="740" y="281" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601081717681" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1601179286279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="852" y="282" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590353166599" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1595787771805">
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601179286279" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1601179286278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595787771805" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1595787771805">
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601179286278" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1601179286278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595787771805" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1595787771805">
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601179286278" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1601179286279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595787771805" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1595787771805">
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601179286279" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1601176525514">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595787771805" />
-    <state x="461" y="172" width="1223" height="710" key="SettingsEditor" timestamp="1589310031448">
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601176525514" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601176494144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="172" width="1223" height="710" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589310031448" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1589154034506">
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601176494144" />
+    <state x="342" y="140" key="new project wizard" timestamp="1601081703942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589154034506" />
-    <state x="892" y="257" key="ftp.server.browser" timestamp="1589309997597">
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601081703942" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599004205511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="892" y="257" key="ftp.server.browser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589309997597" />
-    <state x="342" y="140" key="new project wizard" timestamp="1589595754469">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589595754469" />
-    <state x="618" y="242" key="run.anything.popup" timestamp="1589427041800">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="618" y="242" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589427041800" />
-    <state x="634" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1589173238507">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="634" y="234" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589173238507" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599004205511" />
   </component>
 </project>
